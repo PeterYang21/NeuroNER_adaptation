@@ -1,0 +1,117 @@
+NACSIS test collection I ( NTCIR , 1999 ) , which consists of a collection of abstracts of scientific papers ( 330 ,000 records , 590MB in text ) , two sets of topic description ( 30 topics for training and 53 topics for evaluation ) and relevance judgement , provides us of a good opportunity for this purpose . 
+Our system , SNS ( pronounced `` essence `` ) , retrieves documents related to an unrestricted user query and summarizes a subset of them as selected by the user . 
+Also Kanji is a kind of ideogram and each character has its own meaning . 
+`` TEXTUAL `` Section describes three unification-based parsers which are ... `` OWN `` We also compare with the English language and draw some conclusions on the benefits of our approach . 
+GoDiS consists of a number of modules , an information state , and a number of resources hooked up to the information state . 
+The expected value of feature fi with respect to the empirical distribution i~ ( x , y ) is expressed as x , y and the expected value of fi with respect to the probability distribution p ( ylx ) is p ( . fi ) -~ ~ ( x ) pCylx ) . h ( x , y ) , x~y where l~ ( x ) is the empirical distribution of x in the corpus . 
+`` Precision '' is the percentage of correct answers among the answers proposed by the system . 
+where p ( i ) is the position of the web document in the ordered list . 
+Each definition is a pair comprising a phrase category name and a network of word categories . 
+The model is the probability distribution P ( nk ) = P ( nklck ) , where nk is the number of attributes and Ck is the utterance class for system utte~anee k . 1.2.2 The bigram model of the attributes This model will predict which attributes to use in a system utterance . 
+In this representation , M2 is the proposition that the discourse entity B2 is a member of class `` dog '' . 
+The ACTIONS field is a stack of ( domain ) actions which the user has been instructed to perform but has not yet performed . The LU field contains information about the latest utterance . 
+The metric M ( H ) used as the search heuristic is defined as : M ( H ) = accuracy ( H ) + C log 2 size ( H ) ( 4 ) where C is a constant used to control the relative weight of accuracy vs. complexity . 
+For example , the sentence `` President Clinton met with Vernon Jordon in January '' gets a score of 243.34 which is the sum of the individual eentroid values of the words ( clinton = 36.39 ; vernon = 47.54 ; jordan = 75.81 ; january = 83.60 ) . 
+Regarding the number of terms contained in one sentence as a constant , topic sentences are ext : racted in O ( skh ) time where s is the total number of sentences in the document set . 
+N ~ g ( SU ) , g ( SU ' ) ( 7 ) Where f ( SU , SU ' ) is the co-occurrence frequency corresponding to sememe pair ( SU , SU ' ) in SCFD . 
+Transformation-based learning ( TBL ) ( Brill , 1995 ) is a successful rule-based machine learning algorithm in natural language processing . 
+Authoring is seen as a top-down interactive process of step-wise refinement of the root nonterminal ( corresponding to the whole document ) where the author iteratively selects a rule for expanding a lBut see ( Wood , 1995 : Prescod , 1998 ) for discussions of the differences . 
+TRANSTYPE is a project funded by the Natural Sciences and Engineering Research Council of Canada . 
+= B ( O ) + max ( OCob # ) obj~class where O is the specification of an object in class . 
+The STOP system generates personalised smokingcessation leaflets , based on the recipient 's responses to a questionnaire about smoking beliefs , concerns , and experiences . 
+Text meaning representation is composed of a set of ontological concept instances along with ontological links among them . 
+The Information Gain of feature f is measured by computing the difference in uncertainty . 
+More features are introduced in our method , such as the linear order of entity names , the word ( s ) between the entity names , the relative position of the entity names ( in one sentence or in neighboring sentences ) , etc . 
+Probabilistic learners usually associate to uncertain information a measure of the confidence the system has in that information . 
+3 .1 Speech Recognition The speech recognition module is a phonemeHMM-based speaker-independent continuous speech recognizer that incrementally outputs face Toolldt . 
+We concentrate on the description of word order parameters , which reject the basic order in which constituents occur in different languages . 
+SNoW determines the features ' weights using an on-line algorithm that attempts to minimize the number of mistakes on the training data using a multiplicative weight update rule ( Lit88 ) . 
+Perplexity is a good indicator of Z ( hi , s ) where A ( i , Ss , l ) gives the partition for the current position , B ( s , t ) gives the partition for the current word pair , and following the usual convention , aA ( i , j~ ,0 , S ( s , t ) is zero if these are undefined . 
+The learning system is equipped with a UG and associated parameters , encoded as a Unification-Based Generalised Categorial Grammar , and a learning algorithm that fixes the values of the parameters to a particular language . 
+2.3 Dialogue Primitives Following the procedure outlined in Section 2.4 , the dialogue manager calculates a bag of primitives for each turn and speaker . 
+The total probability of the ith target-text token ti is just the average of the probabilities with which it is generated by each source text token sj ; this is a weighted average that takes the distance from the generating token into account : is1 p ( tils ) = ~p ( tilsj ) a ( jli , Is [ ) j=O ( 3 ) where p ( ti Is j ) is a word-for-word translation probability , Isl is the length ( counted in tokens ) ofthe source segment s under translation , and a ( jli , Is\ ] ) is the a priori alignment probability that the target-text token at position i will be generated by the source text token at position j ; this is equal to a constant value of 1~ ( Is I + 1 ) for model 1 . 
+The column labeled idf is the mean idf for the terms in each bin . 
+For example , N ( vl2 ( c ) ) Pv12 ( c ) = N ( c ) where N ( v12 ( c ) ) is the number of occurrences of a character in the first position of a two-character verb while N ( c ) is the total number of occurrences of this character in the dictionary headwords . 
+An event cluster , produced by a TDT system , consists of chronologically ordered news articles from multiple sources , which describe an event as it develops over time . 
+( Mellish et al . , 1998a ) summarises the genetic algorithm roughly as follows : quences by loosely following sequences of facts where consecutive facts mention the same entity . 
+The c transition from state 4 to state 6 is a backff transition to a lower order n-gram probability . 
+In parallel , we chose three types of medical texts to make up the medical corpus : it represents 16024 tokens , with 3 equal thirds : discharge summaries , surgical reports , and laboratory or test results ( in this case , tables were removed ) . 
+A grammar defined by means of the grammatical formalism SUG ( Slot Unification Grammar ) is used as input of SUPAR . 
+The data consists of fourtuples of words , extracted from the Wall Street Journal Treebank . 
+Adaptive Resonance Associative Map ( ARAM ) is a class of predictive serforganizing neural networks that performs incremental supervised learning of recognition categories ( pattern classes ) and multidimensional maps of patterns . 
+Base-NP chunking ( NPSM ) : the segmentation of sentences into non-recursive NPs . 
+inform ( aTask=n ) : system presents the n'th answer to the query t . 
+The Inductive Logic Programming learning method that we have developed enables us to automatically extract from a corpus N-V pairs whose elements axe linked by one of the semantic relations defined in the qualia structure in GL , and to distinguish them , in terms of surrounding categorial context from N-V pairs also present in sentences of the corpus but not relevant . 
+The topical context is formed by Cl , ... , Cm , which stand for the unordered set of open class words appearing in the sentence 7 . 
+A NAME is defined as a PROPER_NOUN that contains at least one HUMAN word . 
+Informally speaking , a dialogue act tag is a label belonging to a tag set which refers to a given iUocutionary dimension that may be performed by uttering a sentence . 
+The semantic vicinity of a node in a network consists of the nodes and the arcs reachable from that node by traversing a small number of arcs . 
+A computational framework is presented which is used to model the process by which human language learners acquire the syntactic component of their native language . 
+A sense tag Ctag is in terms of a vector ( wl , w2 , ... , wn ) , where n is the vocabulary size and wi is a weight of word cw . 
+A string in a bilanguage corpus consists of sequences of tokens where each token ( wi-xi ) is represented with two components : a source word ( ] possibly an empty word ) as the first component and the target word ( possibly an empty word ) that is the translation of the source word as the second component . 
+Maximal marginal relevance ( or MMR ) is a technique similar to CSIS and was introduced in ( Carbonell and Goldstein , 1998 ) . 
+A hypotactic construction/sentence : a sentence that has a main clause and a dependent clause , connected by a cue phrase . 
+The third technique , information extraction [ Radev & McKeown 98 ] identifies salient semantic roles in text ( e . g . , the place , perpetrator , and effect of a terrorist event ) and converts them to semantic templates . 
+A dialogue manager facilitates the negotiation of parameter values between a user and an SDS . 
+In this matrix : the rows and colunms correspond to words and the ith diagonal element denotes the number of documents in which the word wl appears , F ( wi ) . 
+The center in an utterance Un is the most grammatically salient entity realised in U~_i which is also realised in Un . 
+RDMs is a table searching process . 
+A substitution represents a case in the string metrics in which not only a word is in the wrong place , but the word that should have been in that place is somewhere else , Therefore , substitutions , more than moves or insertions or deletions , represent grave cases of word order anomalies . 
+The reasoning model consists of two functionally linked parts : 1 ) a model of human motivational sphere ; 2 ) reasoning schemes . 
+The passive vocabulary is a large dictionary containing over 380 ,000 word forms . 
+The root node corresponds to the null RRE , and so the position set consists of the beginning of each string in the training set . 
+Topic analysis consists of two main tasks : text segmentation and topic identification . 
+that similar words occur in similar contexts , I formalise this in a slightly different way : each word defines a probability distribution over all contexts , namely the probability of the context given the word . 
+Word Sense Disambiguation ( WSD ) is a central task in the area of Natural Language Processing . 
+The probability distribution is the distribution p that has the maximum entropy relative to a prior distribution P0 ( in other words : the distribution that minimize de divergence D ( pllpo ) ) ( Della Pietra et al. , 1995 ) . 
+The approach taken in this thesis , however , explores generation as .a .classification task whereby the representation that describes the intended meaning of the utterance is ultimately to be classified into an appropriate surface form . 
+4.1 The Parsing ModeL A parser is a relation Parser C_ Sentences x Queries where Sentences and Queries are the sets of natural language sentences and database queries respectively . 
+Instead other types require additional re-generation : for the topic of the document template the generation procedure is as follows : ( i ) the verb form for the predicate in the Predicate slot is generated in the present tense ( topical information is always reported in present tense ) , 3rd person of singular in active voice at the beginning of the sentence ; ( ii ) the parsed sentence fragment from the N ' hat slot is generated in the middle of the sentence ( so the appropriate case for the first element ) . 
+The idea behind feature merging is to reduce overfitting through changes made directly to the model . 
+A TMR includes , among other representational objects , instantiations of object types , relation types and property types . 
+We can confirm that a term is good to discriminate subject concepts if relevant documents contain such terms and non-relevant documents do not contain them and that a term is noisy if the situation is the opposite . 
+In these strategies , the compellingness of an objective measures the objective 's strength in determining the overall value difference between the two alternatives , other things being equal . 
+5The MS tagset tends to follow the MULTEXT lexical description for French , modified within the GRACE action ( http : //www.limsi.fr/TLP/grace/doc/GTR-32.1.tex ) . 
+The LCS represents predicate argument structure abstracted away from languagespecific properties of semantics and syntax . 
+Si and Sf stand for the initial and the final state of chunk whose descriptor is Si . 
+The first metric , simple accuracy , is the same string distance metric used for measuring speech recognition accuracy . 
+In ( Turmo et al. , 1999 ) , the concept of S-set has been presented as a syntactic relation generalization , and a distance measure has been based on this concept . 
+The basic entity is a semantic object ( S ) which is an atomic item treated by the DM . 
+Internally , STOP is a fairly conventional shallow NLG system , with its main innovation being the processing used to control the length of leaflets ( Reiter , 2000 ) . 
+Virtual prototyping is a technique which has been suggested for use in , for example , telecommunication product development as a high-end technology to achieve a quick digital model that could be used in the same way as a real prototype . 
+Figure 2 sketches such a cascade of dependent parallel processes in our model of the conceptualizer : The cascade consists of the processes construction , selection , linearization , and pvm-generation ( preverbal-message-generation ) . 
+To avoid the burden of reading such long and complex sentences , we have developed the phrase-representation summarization method , which represents the outline of a document by a series of short and simple expressions ( `` phrases '' ) that contain key concepts . 
+Statistical dependency structure analysis is defined as a searching problem for the dependency pattern D that maximizes the conditional probability P ( DIB ) of the in20 put sequence under the above-mentioned constraints . 
+• PP rules for word-sense disambiguation : For some nouns ( propernouns ) which are the object of a preposition , the intersection of the semtype value sets of the preposition word and its object determines their semtype . 
+fl , f2 , and f3 represent the three features , c represents the class label . 
+The Partial Parser Module then takes this updated text and breaks it into phrases while attempting to lexically disambiguate the text . 
+Of these , 5 ,922 words are polysemous , i.e. , they have more than one sense . 
+There is one script interpreter , which functions both as a script executive and a script evaluator , and one set of rules which defines the procedural semantics of script actions . 
+The theoretical generality of a generalized clause is the number of not generalized clauses ( E + ) that this clause can cover . 
+The definition of aggregation that we gave at the beginning of previous section is similar to those provided by Dalianis and Huang , although it focuses on common feature factorization to insure aggregation remains a proper subset of sentence planning . 
+In the first case the representation theory is first order logic without structural rules , the formal learning theory from a logical point of view is inductive substructural logic programming and an example of a learning strategy in this framework is EMILE , a learning algorithm that learns categorial grammars ( Adriaans , 1992 ) . 
+The Domain Knowledge Manager is functional utilising a Spatial Reasoner for one sub-area of OstergStland and a Temporal Reasoner . 
+Document # 3 : Mike Smith is a programmer for XYZ Corporation . 
+IF ( Interchange Format ) , the interlingua used by the C-STAR consortium , is a speech-act based interlingua for taskriented dialogue . 
+A word token is an occurrence of a type in the corpus . 
+The ranks assigned by an evaluation measure produce equivalence classes of extract summaries ; each rank equivalence class contains summaries which received the same score . 
+In this paper , we have summarized the evidence for this view of human conversation , and shown how it informs the generation of communicative action in our artificial embodied conversational agent , REA . 
+The RAGS architecture ( Cahill et al. , 1999 ) is a reference architecture for natural language generation systems . 
+In this respect , we have not been facing many problems in fitting Portuguese structures with UNL ones , since Portuguese , like English , is an inflectional language that also employs prepositional constructions . 
+LazyBoosting ( Escudero et al . , 2000a ) is a simple modification of the AdaBoost . MH algorithm , which consists in reducing the feature space that is explored when learning each weak classifier . 
+2.2.1 The evaluator The evaluator is a function p ( t [ t ' , s ) which assigns to each target-text unit t an estimate of its probability given a source text s and the tokens t ' which precede t in the current translation of s . 
+A corpus position for a corpus C is a tuple ( j , k ) , meaning the k th symbol in the jtb string in the corpus , with the restrictions : 1 _ < j _ < [ C [ and 0 _ < k _ < [ CU ] [ . 
+Note that the correlation metric C is the square root of the X 2 metric . 
+We define tightly bound as those schema that users expect to discuss interchangeably , without explicit shifts in conversational focus . 
+Pi ( c~ ) is the probability of beginning a derivation with c~ ; Ps ( o~ I 77 ) is the probability of substituting o~ at 7 ; Pa ( /~ I r/ ) is the probability of adjoining ~ at 7/ ; finally , Pa ( NONE I 7 ) is the probability of nothing adjoining at ~/ . 
+Below we provide the standard definition for regular expressions , and then define a less expressive language formafism , which we will refer to as reduced regular expressions . 
+Naive Bayes is intended as a simple representative of statistical learning methods . 
+The type of an LCS node is one of Event , State , Path , Manner , Property or Thing , loosely correlated with verbs prepositions , adverbs , adjectives and nouns . 
+2This corpus is collected and annotated for the GNOME project ( Poesio , 2000 ) , which aims at developing general algorithms for generating nominal expressions . 
+The parameters e and S have the following meaning : e is the probability that the learner produces a generalization of the sample that does not coincide with the target concept , while S is the probability , given D , that a particularly unrepresentative ( or noisy ) training sample is drawn . 
+TransType : a Computer -- Aided Translation Typing System Philippe Langlais and George Foster and Guy Lapalme RALI/DIRO -Universit @ de Montr @ al C.P . 
+Coverage is the ratio of the number of actually segmented sentences to the number of segmentation target sentences that are longer than ot words , where o~ is a fixed constant distinguishing long sentences from short ones . 
+Most context-free parsing algorithms have O ( n 3 ) parsing complexities in terms of time and space , where n is the length of a sentence ( Tomita , 1986 ) . 
+This paper presents WIT 1 , which is a toolkit IWIT is an acronym of Workable spoken dialogue lnter150 for building spoken dialogue systems that integrate speech recognition , language understanding and generation , and speech output . 
+L is a set of labeled training examples . 
+Suppose q = an+l ( Sm ) , we have : P ( q 6 Q ( l ) ) ( 10 ) = P ( s~ • F~ ) ... = P ( s , n • FS + l sm-1 •/St , _a ) ... P ( s~ • OS~_ , I sj-1 • Is~_ , ) ... P ( s2 • Ob~ , Is1 • IS~ , ) P ( 'I • IS~ , ) where ak denotes the index of which action is applied at the kth step . 

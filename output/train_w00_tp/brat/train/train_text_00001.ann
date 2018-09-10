@@ -1,0 +1,988 @@
+T1	TERM 2 21	segmentation method
+T2	DEF 75 255	segments a text into blocks ( paragraphs ) in accord with topic changes within the text , but it does not identify ( or label ) by itself the topics discussed in each of the blocks
+T3	DEF 273 361	a rule-based engine that covers the continuum between templates and syntactic generation
+T4	DEF 415 705	a ceiling on the performance of these systems at around 80 % token recall. Where token recall is the percentage of SCF tokens in a sample of manually analysed text that were The approaches to extracting SCF information from corpora have frequently employed statistical methods for filtering
+T5	DEF 785 886	calculate prominence considering the information structure of the utterances ( functional centering )
+T6	TERM 890 901	CommandTalk
+T7	DEF 905 1173	a spoken-language interface to the ModSAF ( Modular Semi-Automated Forces ) battlefield simulator , developed with the goal of allowing military commanders to interact with simulated forces in a manner as similar as possible to the way they would command actual forces
+T8	TERM 1193 1210	CORELEX class AQU
+T9	DEF 1219 1305	represents a relation between ARTIFACT and QUANTITY ) contains words such as `` bottle
+T10	TERM 1343 1348	Third
+T11	DEF 1412 1535	describe the dialogue engine and how it uses the application description and other sources to calculate dialogue primitives
+T12	TERM 1539 1540	C
+T13	DEF 1544 1566	the current hypothesis
+T14	TERM 1574 1583	F-measure
+T15	DEF 1587 1629	the balanced score of precision and recall
+T16	DEF 1775 1807	presents the highest performance
+T17	DEF 1844 1985	a query tool for syntactically annotated corpora that is developed for the German Verbmobil treebank annotated at the University of Tiibingen
+T18	DEF 1996 2065	a treecut corresponds to one of the levels of abstraction in the tree
+T19	TERM 2069 2072	Its
+T20	DEF 2127 2262	a unique semantic ( or meaning ) representation that can be interchanged with the various languages to be integrated in the KBMT system
+T21	DEF 2323 2453	determined a text ' s topic structure , which indicates what topics are included in a text , and how topics change within the text
+T22	TERM 2457 2464	WordNet
+T23	DEF 2468 2668	a lexical ontology a variant on semantic networks with more of a hierarchical structure , even though some of the nodes can have multiple parents that was manually constructed for the English language
+T24	TERM 2672 2678	FERGUS
+T25	DEF 2693 2798	perform punctuation and function word insertion , and morphology and lexical choice are under development
+T26	TERM 2869 2871	4a
+T27	DEF 2883 3013	a structure that could substitute for the G node in ( 3 ) to produce semantically and pragmatically coordinated speech and gesture
+T28	TERM 3122 3123	C
+T29	DEF 3127 3278	a predicate over strings and m , n ~ L. A string is labelled by first applying the start-state annotator to it , and then applying each rule , in order
+T30	DEF 3502 3563	a generalpurpose IE engine for use in commercial applications
+T31	TERM 3577 3604	finite-state language model
+T32	DEF 3607 3729	the REXTOR System generates a set of ternary expressions that correspond to content of a partf-speechtagged input document
+T33	TERM 3735 3747	KeyWord list
+T34	DEF 3751 3790	a portion of the study corpus word list
+T35	TERM 3794 3848	Quarc ( QUestion Answering for Reading Comprehension )
+T36	DEF 3852 3984	a rule-based system that uses lexical and semantic heuristics to look for evidence that a sentence contains the answer to a question
+T37	DEF 4087 4213	the flow of words relevant to the filtering task and domain through the steps of document processing in our embedded MT system
+T38	DEF 4227 4305	the level of `` noise `` i.e. , processing errors , passing through the system
+T39	TERM 4309 4328	Regression analysis
+T40	TERM 4446 4487	Modified Value Difference Metric ( MVDM )
+T41	DEF 4491 4586	an important factor , which is explained in terms of population density of the class hyperspace
+T42	TERM 4679 4681	Xi
+T43	DEF 4685 4706	a possible value of X
+T44	TERM 4714 4732	objective function
+T45	DEF 4747 4878	the sum of the code length for the model ( `` model description length `` ) and that for the data ( `` data description length `` )
+T46	TERM 4893 4900	patient
+T47	TERM 4981 4998	patients ( ARG3 )
+T48	DEF 5002 5090	a separate decision from the existential quantification of the severity ratings ( ARG2 )
+T49	TERM 5105 5120	neural networks
+T50	DEF 5125 5337	a classification technique that is robust and resistant to noisy input , and learns to classify inputs on the basis of training examples , without specific rules that describe how the classification is to be done
+T51	TERM 5358 5371	HowNet HowNet
+T52	DEF 5375 5496	a bilingual general knowledge-base describing relations between concepts and relations between the attributes of concepts
+T53	TERM 5515 5527	Boundary tag
+T54	DEF 5536 5593	the possible relative position of a word to a base phrase
+T55	TERM 5597 5613	Concept matching
+T56	DEF 5617 5751	a technique that has been used in limited domains , like the legal field were conceptual indexing has been applied by ( Stein , 1997 )
+T57	TERM 5755 5760	Logic
+T58	DEF 5764 5858	indeed an excellent way to think about representing static relationships like database queries
+T59	DEF 5898 5930	a good way to represent commands
+T60	TERM 5934 5948	Topic analysis
+T61	DEF 5949 6045	consists of two main tasks : topic identification and text segmentation ( based on topic changes
+T62	TERM 6051 6080	Class probability assignments
+T63	DEF 6085 6152	then estimated using statistics computed on the equivalence classes
+T64	DEF 6166 6300	The task of parse selection involves selecting the best possible parse for a sentence from a set of possible parses produced by an AVG
+T65	DEF 6308 6378	heuristic approximation of computationally expensive pure MBL variants
+T66	DEF 6394 6503	creates an oblivious decision tree with features as tests , ordered according to information gain of features
+T67	DEF 6546 6608	matching a pair of discourse markers for a rhetorical relation
+T68	TERM 6611 6619	priority
+T69	DEF 6623 6729	given to the inter-sentence relation whose back discourse marker matched with the first word of a sentence
+T70	TERM 6745 6754	f~w=~wTVk
+T71	DEF 6758 6823	the projection of ~T into the k-dimensional latent semantic space
+T72	TERM 6829 6847	nor- mal embedding
+T73	TERM 6896 6909	embedded part
+T74	DEF 6913 6987	a relative clause which provides additional information about the referent
+T75	TERM 6999 7019	Conceptual Structure
+T76	DEF 7023 7072	a compositional structure that captures a concept
+T77	TERM 7085 7093	compares
+T78	DEF 7165 7272	the corpus which the researcher is interested in describing ) with a word list made from a reference corpus
+T79	DEF 7307 7423	the annotated and fully disambiguated corpus of Czech newspaper texts , has been used as the source of learning data
+T80	DEF 7531 7601	the trigger for recognizing the evaluative status of the matrix clause
+T81	TERM 7605 7622	Weighted accuracy
+T82	DEF 7626 7703	a measure that weights higher the hits and misses 100 for the preferred class
+T83	TERM 7711 7715	test
+T84	DEF 7720 7783	consists of 30 stories from grade 3 and 30 stories from grade 4
+T85	DEF 7834 7964	the object X satisfies Goal and is the largest object that does so , using the appropriate measure of size for objects of its type
+T86	TERM 7974 7992	P ( .wi [ w~-lcc )
+T87	DEF 8001 8076	the probability that wi follows w~- : given that a content word follows w~-
+T88	DEF 8090 8182	a linear interpolation of a standard trigram model and the context coccurrence probabilities
+T89	DEF 8312 8402	the nodes relevant to F . Let s be the partial network consisting of the set of nodes { xl
+T90	DEF 8423 8461	interconnected by the set of arcs { tl
+T91	DEF 8766 8832	the norm I-I is defined by IPl -= ~Pi ( 10 ) i for vectors p and q
+T92	TERM 8844 8859	Vector Machines
+T93	DEF 8949 9034	relatively new learning approaches for solving two-class pattern recognition problems
+T94	TERM 9042 9054	Partf-speech
+T95	TERM 9059 9071	partf-speech
+T96	DEF 9075 9250	another basic information for speech recognition , syntactic/semantic parsing , and dialogue processing as well as linguistic and psycholinguistic analysis of spoken discourse
+T97	DEF 9265 9346	a non-inflectional language and therefore morphological analysis is not essential
+T98	DEF 9362 9521	Selection Module The Content Selection Module consists of four components : Level-Adjusting Agent , UtilityUpdating Agent , Action Planner and Content Selector
+T99	TERM 9525 9529	SVMs
+T100	DEF 9738 9961	the roles expected by Nitrogen 's English generation grammar do not match well with the thematic roles and features of a CLCS , we have extended the AMR language with LCS-specific relations , calling the result , an LCS-AMR
+T101	TERM 9970 9979	leaf node
+T102	DEF 10029 10059	provides content for that node
+T103	TERM 10066 10087	information structure
+T104	DEF 10088 10160	consists of two components : HowNet definitions and dependency relations
+T105	TERM 10176 10189	summarization
+T106	DEF 10193 10366	to identify informative evidence from a given document , which are most relevant to its content and create a shorter version of smnmary of the document from this information
+T107	DEF 10544 10677	a N-V pair in which the N and the V are related by a semantic link which is close , and which can therefore be used to expand indexes
+T108	DEF 10694 10848	a list of requirements for multi-document summarization : • clustering : The ability to cluster similar documents and passages to find related information
+T109	DEF 10865 10930	consists of a series of legal tokens , which are shown in Table 1
+T110	TERM 10990 10994	1984
+T111	DEF 11006 11151	a formal language to represent knowledge , which requires the heavy cost of construction and maintenance and makes the scaling up quite difficult
+T112	DEF 11189 11308	consists of a speaker tag ( a : for agent ) , the speechact give-information , and two main concepts , +price and +room
+T113	TERM 11513 11515	s2
+T114	DEF 11529 11793	the most specific common ancestor of concepts s~ and s2 and level ( s ) refers to the depth of concept s from the root node in the WordNetL 2.2 Heuristic 2 : Prior Probability This heuristic provides prior probability to each sense of a single translation as score
+T115	DEF 11817 11853	a material of ' addictive ' products
+T116	TERM 11887 11898	UNL Encoder
+T117	DEF 11904 11973	generic enough to handle all the 29 languages included in the Project
+T118	TERM 11981 11997	NB ( naive Bayes
+T119	DEF 12009 12139	classifiers use the same feature set , conjunctions of size 3 of POS tags ( + words ) in a window of size 6 around the target word
+T120	TERM 12147 12166	coUocational degree
+T121	DEF 12181 12328	the ratio of the existing collocation instances between the cluster and its distribution envffonment to all possible collocations generated by them
+T122	TERM 12346 12364	ambiguity of words
+T123	DEF 12368 12463	a central problem for large scale language understanding applications and their associate tasks
+T124	TERM 12510 12528	NE classes H ( C )
+T125	TERM 12608 12617	N n ( c )
+T126	DEF 12620 12746	the number of words in class c N : the total number of words in text We can calculate the entropy for features in the same way
+T127	TERM 12750 12764	Disambiguation
+T128	DEF 12826 12967	the key words for main topics contained at least one of the identification words , we viewed that text as having the corresponding main topic
+T129	TERM 12981 12988	Ariadne
+T130	DEF 12992 13024	a cheap hotel in the city centre
+T131	TERM 13028 13035	Keyword
+T132	TERM 13042 13048	search
+T133	DEF 13052 13150	a special case where the user specifies one or more keywords which they want to find in a document
+T134	TERM 13219 13232	ith action a/
+T135	DEF 13236 13397	a function a/ ( s ) : ISi -+ OSi where ISi G S is the set of states to which the action is applicable and OSi C_ S is the set of states constructed by the action
+T136	TERM 13424 13427	ANC
+T137	DEF 13431 13631	the main guerrilla group fighting to overthrow the South African government and end apartheid , the system of racial segregation in which South Africa 's black majority has no vote in national affairs
+T138	TERM 13639 13655	indexing process
+T139	DEF 13662 13712	a group of document files and produces a new index
+T140	TERM 13727 13732	tense
+T141	TERM 13742 13755	gold standard
+T142	DEF 13762 13791	the set of human translations
+T143	TERM 13795 13809	Traditional IR
+T144	DEF 13818 13882	treat the query as a pattern of words to be matched by documents
+T145	TERM 13897 13907	Punishment
+T146	DEF 13912 14074	the utility metrics corresponding to each sub-goal ( Winlder , 95 1972 ) depending upon the hypothesis of uncertainty of understanding and the level of importance
+T147	TERM 14078 14097	informValue ( p=v )
+T148	DEF 14100 14155	user provides value v for parameter p . p was requested
+T149	DEF 14228 14494	clearly weaker than evaluations measuring actual attitudinal and Arguing an evaluation involves an intentional communicative act that attempts to affect the current or future behavior of the addressees by creating , changing or reinforcing the addressees ' attitudes
+T150	TERM 14666 14669	y )
+T151	DEF 14673 14732	the mutual information of these two words ( in this order )
+T152	DEF 14762 14850	a binary-valued indicator function ] expressing the information about a specific context
+T153	TERM 14859 14863	node
+T154	TERM 14924 14943	rhetorical relation
+T155	DEF 14955 15013	a relation that holds between two nonverlapping text spans
+T156	TERM 15017 15026	Pi ( c~ )
+T157	DEF 15030 15079	the probability of beginning a derivation with c~
+T158	TERM 15091 15095	77 )
+T159	DEF 15099 15138	the probability of substituting o~ at 7
+T160	TERM 15151 15166	Pa ( NONE I 7 )
+T161	DEF 15170 15212	the probability of nothing adjoining at ~/
+T162	TERM 15233 15239	word w
+T163	DEF 15243 15287	a list of its microcontext elements ( MCEs )
+T164	TERM 15320 15324	List
+T165	DEF 15328 15422	a list of features extracted from the training examples and sorted by a log-likelihood measure
+T166	TERM 15438 15445	numbers
+T167	DEF 15521 15590	a good cue for cotemporality , while telicity is not a sufficient cue
+T168	TERM 15598 15623	Caption Generation System
+T169	DEF 15632 15714	generates explanatory captions of graphical presentations ( 2D charts and graphs )
+T170	TERM 15718 15724	Second
+T171	TERM 15727 15741	Czech language
+T172	DEF 15745 15867	a free word-order language what implies that the process of recognition of the verb group structure is much more difficult
+T173	DEF 15902 15997	the proportion of linked senses of Korean words to all the senses of Korean words in a test set
+T174	DEF 16253 16299	generates natural language from dialogue moves
+T175	DEF 16317 16418	produces output to the user ; update , which updates the information state based on interpreted moves
+T176	DEF 16440 16478	selects the next move ( s ) to perform
+T177	DEF 16519 16727	a grammar ; LEXICAL semantics determines the separate constraints that can go into a description and COMPOSITIONAL semantics determines how these constraints can share variables and so describe common objects
+T178	DEF 16851 16896	a corpus of 450 Italian spontaneous dialogues
+T179	DEF 16911 16981	a syllable-based language , where each syllable carries a lexical tone
+T180	DEF 17011 17188	the expansion probabilities depend on the states that are defined by the node label , the number of descendents the node and the sequence of labels in the descendents ( if any )
+T181	TERM 17220 17244	truly unmatched template
+T182	DEF 17248 17370	a template that does not match any template in the other Treebank even if we assume both Treebanks are perfectly annotated
+T183	TERM 17374 17388	disambiguation
+T184	DEF 17538 17776	a container for some part of the linguistic knowledge needed to disarnbiguate the * This research was supported by KOSEF special purpose basic research ( 1997 .92000 .8 # 970-1020-301-3 ) Corresponding author 142 ambiguous WordNet synsets
+T185	TERM 17978 17985	F ( n )
+T186	DEF 17994 18125	the Front discourse segment of an inter-sentence rhetorical relation whose sequence number is n . We can define & B ( n ) similarly
+T187	TERM 18134 18145	participant
+T188	TERM 18236 18249	answer string
+T189	DEF 18253 18330	a string of 50 bytes ( or 250 bytes ) that contains an answer to the question
+T190	DEF 18566 18608	search through the space of possible rules
+T191	TERM 18663 18689	lnterlingua Slot Structure
+T192	DEF 18700 18767	generates an interlingua representation from the SS of the sentence
+T193	DEF 18773 18941	non-restrictive component gives additional information to a head that has already been viewed as unique or as a member of a class that has been independently identified
+T194	TERM 18944 18953	therefoee
+T195	TERM 19134 19141	N ( w )
+T196	DEF 19150 19173	the frequency of w in t
+T197	TERM 19180 19185	P ( w
+T198	DEF 19188 19256	the probability of the occurrence of w as estimated from corpus data
+T199	TERM 19273 19283	Question-a
+T200	DEF 19287 19329	a sum of the times for Questions al and a2
+T201	DEF 19356 19449	a grapheme-to-phoneme conversion task for English based on the English Celex lexical database
+T202	DEF 19502 19634	a sequence consisting of : an optional possessive pronoun or determiner , any number of adjectives , one or more nouns ( of any type
+T203	TERM 19644 19660	MEDLINE database
+T204	DEF 19664 19797	an online collection of abstracts for published journal articles in biology and medicine and contains more than nine million articles
+T205	TERM 19810 19812	wz
+T206	DEF 19826 19917	the count of the event that x and y occur adjacent and in this order in the training corpus
+T207	TERM 20078 20081	wsj
+T208	DEF 20090 20144	a word set to which the jth word in a sentence belongs
+T209	TERM 20273 20281	Hi ( s )
+T210	DEF 20285 20314	a heuristic score of synset s
+T211	TERM 20317 20318	s
+T212	DEF 20322 20340	a candidate synset
+T213	TERM 20343 20345	ew
+T214	DEF 20349 20375	a translation into English
+T215	TERM 20378 20379	n
+T216	DEF 20383 20409	the number of translations
+T217	TERM 20414 20427	synset ( ew )
+T218	DEF 20431 20471	the set of synsets of the translation ew
+T219	TERM 20534 20555	communicative context
+T220	DEF 20564 20673	represents the centrality of the house in attentional prominence , cognitive status and information structure
+T221	TERM 20677 20707	Cluster-based sentence utility
+T222	TERM 20720 20727	utility
+T223	DEF 20730 20889	refers to the degree of relevance ( from 0 to 10 ) of a `` particular sentence to the general topic of the entire cluster ( for a discussion of what is a topic
+T224	TERM 20942 20955	training data
+T225	DEF 20970 21086	a new item is classified by the most frequent classification among training items which are closest to this new item
+T226	TERM 21090 21096	IGTREE
+T227	DEF 21100 21269	a variant in which an oblivious decision tree is created with features as tests , and in which tests are ordered according to information gain of the associated features
+T228	TERM 21275 21295	dialogue move engine
+T229	DEF 21312 21419	the information state on the basis of observed dialogue moves and selects appropriate moves to be performed
+T230	DEF 21583 21671	construct the RRE-tree , we keep track of the largest Goodness ( S ) we have encountered
+T231	DEF 21758 21957	a representation of a picture in SAGE format ( which has been annotated to indicate the types of complexity of each grapheme ) together with a goal , which can typically be interpreted as `` describe
+T232	TERM 21967 21984	attribute grammar
+T233	DEF 21985 22078	consists of a context-free grammar , a finite set of attributes , and a set of semantic rules
+T234	TERM 22094 22111	synonymy relation
+T235	DEF 22115 22197	a binary relation between two synonym terms ( with respect to • a particular sense
+T236	TERM 22215 22226	inspiration
+T237	DEF 22235 22360	the fact that grunts are unlike words , in that they contain sounds which are never seen in the lexical items of the language
+T238	DEF 22387 22421	the relation is one of Elaboration
+T239	TERM 22428 22449	KUMORI ( cloudiness )
+T240	DEF 22456 22511	a natural phenomenon which can be pointed to concretely
+T241	TERM 22588 22589	S
+T242	DEF 22593 22627	a sense item of polysemouse word W
+T243	TERM 22630 22631	C
+T244	DEF 22635 22659	the context containing W
+T245	TERM 22662 22664	SS
+T246	DEF 22668 22701	the corresponding sememe set of S
+T247	DEF 22711 22752	the set of sememe expansion of words in C
+T248	TERM 22757 22765	GlobalSS
+T249	DEF 22769 22835	the sememe set that containing all of the sememe defined in Hownet
+T250	TERM 22877 22887	apposition
+T251	TERM 22909 22921	special node
+T252	DEF 22932 22992	the node of the coordinating conjunction or other expression
+T253	DEF 23003 23087	the governor of the coordinated subtrees and their common complementation in the ATS
+T254	TERM 23091 23100	P ( NEG )
+T255	DEF 23104 23275	the probability that a negative example is mislabelled and its value can be estimated given # ( in equation ( 6 ) ) and the total nnrnber of positive and negative examples
+T256	DEF 23319 23378	consists of 9603 texts for training and 3299 texts for test
+T257	TERM 23382 23383	S
+T258	DEF 23387 23403	the start symbol
+T259	TERM 23502 23519	FrontClause ( n )
+T260	DEF 23528 23715	the discourse segment that is encapsulated by the Front discourse marker of the corresponding rhetorical relation whose sequence number is n . 15 BackClause ( n ) can be defined similarly
+T261	TERM 23817 23819	hi
+T262	DEF 23823 23862	the relevant history when predicting wi
+T263	TERM 23869 23870	s
+T264	DEF 23874 23949	any sequence of tokens , words , part-of-speech ( pos ) tags or other terms
+T265	TERM 23953 23967	Extrapositions
+T266	DEF 23972 24026	the linguistic means in German to separate sense units
+T267	TERM 24047 24058	Ei ( ~-Po )
+T268	DEF 24062 24103	the set of the edges between points in P1
+T269	TERM 24106 24125	Ri ( ~ ( PlX El ) )
+T270	DEF 24129 24188	the set of relations between points in PI and edges in Et s
+T271	TERM 24385 24388	d )
+T272	DEF 24392 24448	the standard notion of frequency in the corpus-based NLP
+T273	TERM 24456 24462	recall
+T274	DEF 24466 24529	the number of identified errors over the total number of errors
+T275	TERM 24624 24643	head/modifier pairs
+T276	DEF 24653 24780	expressed within the ItEXTOR framework , and furthermore the system provides a playground for experimenting with new techniques
+T277	TERM 25021 25024	If0
+T278	DEF 25038 25291	the probability that bi depends on ( modifies ) b t . fit is an n dimensional feature vector that represents various kinds of linguistic features related with the chunks bi and b t . We obtain Dbest taking into all the combination of these probabilities
+T279	TERM 25302 25317	attribute vtype
+T280	TERM 25333 25338	vtype
+T281	DEF 25342 25483	a reference to a description of a guideline violation in a file which contains the different kinds of violations of the individual guidelines
+T282	TERM 25487 25501	SEMCAT weights
+T283	DEF 25506 25549	calculated based on the following equations
+T284	TERM 25557 25565	Ontology
+T285	DEF 25569 25743	a directed acyelic graph automatically derived from the Grammar in which the nodes correspond to grammar nonterminals ( NTs ) and the arcs record immediate dominance relation
+T286	DEF 25777 25866	NTi in a right-hand side ( RHS ) alternative of NTj will result in an arc from NTi to NTj
+T287	TERM 25873 25876	TTT
+T288	DEF 25938 25976	a text tokenisation system and toolset
+T289	DEF 26037 26120	the Remedia corpus provided by MITRE which has been hand-tagged with named entities
+T290	DEF 26143 26244	stands for set union , therefore A+B-B means that the training set is A union B and the test set is B
+T291	TERM 26437 26438	m
+T292	DEF 26442 26516	the number of training documents which does not belong to the target event
+T293	TERM 26523 26525	Sx
+T294	DEF 26529 26622	a test document which should be classified as to whether or not it discusses the target event
+T295	TERM 26633 26651	SNo W architecture
+T296	DEF 26661 26745	a winnow node for each class , which learns to separate that class from all the rest
+T297	TERM 26911 26927	sentential level
+T298	TERM 27020 27035	paragraph level
+T299	DEF 27038 27233	where units are given by sentences and spans are given by sets of sentences or single paragraphs ) : and text level ( where units are given by paragraphs and spans are given by sets of paragraphs
+T300	DEF 27362 27395	assigned an estimated probability
+T301	DEF 27407 27459	a uniform fraction of the probability of the cluster
+T302	DEF 27477 27569	the Mutual Information measures the strength of a correlation between co-occurring arguments
+T303	DEF 27646 27782	a weight to a feature vector , depending upon the degree of ambiguity of its arguments and the frequency of its observations in a corpus
+T304	DEF 27800 27870	significantly better accuracy of RBM or RIPPER over IBi-IG with p 0.05
+T305	DEF 27889 28050	an average of 20 sentences , and the question answering task as formulated for a computer program is to select a sentence in the story that answers to a question
+T306	TERM 28058 28095	language model for speech recognition
+T307	DEF 28099 28202	a network ( regular ) grammar , and it allows each speech interval to be an arbitrary number of phrases
+T308	TERM 28206 28226	Morphology induction
+T309	DEF 28230 28340	a subproblem of important tasks like automatic learning of machine-readable dictionaries and grammar induction
+T310	TERM 28405 28422	co-occurring word
+T311	TERM 28442 28443	s
+T312	DEF 28447 28527	a statistically significant indicator of the presence of w . Let a data sequence
+T313	TERM 28600 28602	wi
+T314	DEF 28613 28692	the state of co-occurrence of words s and w in the i-th text in the corpus data
+T315	TERM 28696 28712	Chomsky ( 1981 )
+T316	TERM 28719 28728	elsewhere
+T317	DEF 28735 28917	proposed that all natural languages share the same innate universal principles ( Universal Grammar -UG ) and differ only with respect to the settings of a finite number of parameters
+T318	DEF 28970 29146	a special case of text planning by constraint satisfaction , where the user has control over the different constraints , and this approach means that different strategies for e
+T319	TERM 29154 29230	ALLiS ( Architecture for Learning Linguistic Structures ) ( D~jean , 2000a )
+T320	DEF 29234 29340	a symbolic machine learning system which generates categorisation rules from a tagged and bracketed corpus
+T321	DEF 29352 29390	a subcorpus of circa 4.5 million words
+T322	TERM 29520 29545	contextual representation
+T323	DEF 29576 29644	a characterisation of the linguistic context in which a word appears
+T324	TERM 29663 29709	properly Unsolicited Commercial E-mail ( UCE )
+T325	DEF 29715 29805	an increasing threat to the viability of Internet E-mail and a danger to Internet commerce
+T326	TERM 29809 29815	Hownet
+T327	DEF 29819 29874	a knowledge base which was released recently on Intemet
+T328	TERM 29881 29888	F-score
+T329	DEF 29895 29976	a measurement combining `` Recall '' and `` Predsion '' and defined in Equation 3
+T330	DEF 30104 30167	the similarity between all the words ' senses of words in a set
+T331	DEF 30241 30283	the grammar to account for these sentences
+T332	TERM 30287 30291	ILEX
+T333	DEF 30295 30395	an adaptive hypertext generation system , providing natural language descriptions for museum objects
+T334	DEF 30446 30630	the nearest neighbour algorithm : given a new sentence , the closest match among the corpus of sentences of known prosody is retrieved and used to infer the prosody of the new sentence
+T335	TERM 30766 30770	emax
+T336	DEF 30774 30832	the maximum number of parameters expressed by any sentence
+T337	TERM 30843 30844	S
+T338	DEF 30849 30893	the sets of good and bad states respectively
+T339	TERM 30897 30900	TM2
+T340	DEF 30910 31076	elements which are translation segments ranging from whole sections of a document or multisentence paragraphs to smaller units , such as short phrases or proper names
+T341	TERM 31135 31143	modality
+T342	DEF 31152 31238	allows the user to submit queries with keywords composed by means of logical operators
+T343	TERM 31343 31347	cond
+T344	TERM 31469 31476	gap ( )
+T345	DEF 31480 31579	a special predicate for manipulation with gaps , and k5 ( ) stands for arbitrary non-auxiliary verb
+T346	TERM 31583 31586	opt
+T347	TERM 31657 31664	Chinese
+T348	DEF 31668 31692	a sequence of characters
+T349	DEF 31699 31833	selects the Mann-Whitney test that : uses ranks of frequency data rather than the frequency values themselves to compute the statistic
+T350	DEF 32002 32078	define an atomic RRE as any RRE derived without any concatenation operations
+T351	DEF 32185 32304	a meso-level dialogue structure roughly the same level that dialogue games ( Carletta et al , 1997 ) or adjacency pairs
+T352	TERM 32313 32322	VERBMOBIL
+T353	DEF 32326 32627	a speech-to-speech translation project , which at present is approaching its end and in which over 100 researchers 1 at academic and industrial sites are developing a translation system for multilingual negotiation dialogues ( held face to face or via telephone ) using English , German , and Japanese
+T354	DEF 32648 32754	the Interlingua system takes the SS of the sentence after applying the anaphora resolution module as input
+T355	TERM 32818 32822	ours
+T356	TERM 32861 32864	IDI
+T357	DEF 32873 32921	the number of texts and IW ] the number of words
+T358	TERM 32925 32930	NJFun
+T359	DEF 32934 33038	a real-time spoken dialogue system that provides users with information about things to do in New Jersey
+T360	DEF 33192 33234	takes values such as paragraph or sentence
+T361	TERM 33241 33247	LAYOUT
+T362	DEF 33256 33307	takes values such as wrapped-text and vertical list
+T363	TERM 33315 33335	informative abstract
+T364	DEF 33339 33406	the information obtained by this process as it is shown in Figure 1
+T365	TERM 33424 33443	synonymity of words
+T366	DEF 33447 33514	a property of natural language causing a very serious problem in IR
+T367	DEF 33540 33675	a 1EuTrans ESPRIT-LTR Project 20268 2IMH has been reported recently as the most useful MCMC algorithm used in the WSME training process
+T368	TERM 33679 33708	Error-correcting output codes
+T369	TERM 33933 33947	knowledge ADAM
+T370	DEF 33951 34093	the first corpus being architecturally designed by explicitly adopting the concept of annotation modularity and metascheme at different levels
+T371	TERM 34097 34146	Weighted Probability Distribution Voting ( WPDV )
+T372	DEF 34150 34280	a newly designed machine learning algorithm , for which research is currently aimed at the determination of good weighting schemes
+T373	TERM 34297 34312	WordSmith Tools
+T374	DEF 34337 34388	a program for comparing corpora , known as KeyWords
+T375	TERM 34407 34422	interlingua UNL
+T376	DEF 34434 34574	its intended use : as an electronic language for networks , it has to allow for high quality 2 conversation systems involving many languages
+T377	TERM 34587 34593	models
+T378	TERM 34920 34933	strong chains
+T379	DEF 34943 35084	chains whose scores are in excess of two standard deviations above the mean of all scores ) to determine which chains to include in a summary
+T380	TERM 35088 35095	RSTTool
+T381	DEF 35099 35180	a robust tool which facilitates manual analysis of a text 's rhetorical structure
+T382	TERM 35184 35188	Time
+T383	DEF 35192 35231	the total time for the query in seconds
+T384	TERM 35443 35445	=n
+T385	DEF 35458 35512	the boundary tags , ci represents the base phrase tags
+T386	TERM 35516 35524	GermaNet
+T387	DEF 35528 35576	the German counterpart to the well known WordNet
+T388	DEF 35631 35697	consists of a unification-based lexicon and phrase structure rules
+T389	TERM 35701 35714	Low frequency
+T390	DEF 35723 35762	the number of occurrences less than 100
+T391	TERM 35765 35781	middle frequency
+T392	DEF 35790 35836	the number of occurrences between 100 and 1000
+T393	TERM 35843 35857	high frequency
+T394	DEF 35866 35906	the number of occurrences more than 1000
+T395	TERM 35913 35921	ontology
+T396	DEF 35925 35968	a set of knowledge concepts about the world
+T397	TERM 35976 35991	discourse model
+T398	DEF 35995 36046	a knowledge store consisting of two major registers
+T399	DEF 36069 36218	present two baseline algorithms for word domain disambiguation and we propose some variants of them to deal with WDD in the context of parallel texts
+T400	TERM 36236 36238	NP
+T401	DEF 36244 36339	the category of the constituent embedding the NP is associated with one or more functional tags
+T402	TERM 36371 36405	Word sense disarnbiguafion ( WSD )
+T403	DEF 36409 36452	one of • the most difficult problems in NLP
+T404	TERM 36456 36473	Word segmentation
+T405	DEF 36477 36612	a natural by-product of large vocabulary Mandarin speech recognition , and white space provides word boundaries for the English queries
+T406	TERM 36618 36619	°
+T407	DEF 36623 36666	the head of X m and the anchor of the etree
+T408	TERM 36857 36862	IsRDM
+T409	DEF 36866 36881	a Boolean value
+T410	DEF 37026 37181	a component which discovers significant associations between the two and writes the result to a table , and a visualizer which plots the results as a graph
+T411	TERM 37185 37212	Natural language generation
+T412	DEF 37222 37373	a number of processes ranging from planning the content to be expressed through making encoding decisions involving syntax , the lexicon and morphology
+T413	DEF 37404 37624	A single scenario for the colour domain In order to learn a rule set for a concept , EVIUS uses the relational learning method explained in section 3 , and defines the learning space by means of a dynamic predicate model
+T414	TERM 37766 37767	o
+T415	DEF 37771 37859	the composition operation defined for weighted finite-state machines ( Pereira and Riley
+T416	DEF 38003 38116	Objects models the set of objects in the database and Properties denotes a complex predicate ascribed to this set
+T417	TERM 38120 38125	These
+T418	DEF 38141 38249	tend to benefit from the Modified Value Difference Metric , which creates a condensed hyperspace of features
+T419	TERM 38279 38298	relational database
+T420	DEF 38315 38382	a set of tab-delimited database files , plus some minimal semantics
+T421	TERM 38546 38551	p e )
+T422	DEF 38555 38701	the probability that m or more occurrences of cues for scfi will occur with a verb which is not a member ofscfi , given n occurrences of that verb
+T423	TERM 38705 38707	M5
+T424	DEF 38711 38782	the proposition that the name of the discourse entity B2 is `` Pluto ``
+T425	TERM 38788 38792	PRPZ
+T426	DEF 38796 38840	the partf-speech tag for possessive pronouns
+T427	DEF 39017 39091	singular proper nouns , NNPS for plural proper nouns , IN for prepositions
+T428	TERM 39129 39147	thematic hierarchy
+T429	TERM 39176 39191	lunited statesl
+T430	TERM 39211 39218	Iquotal
+T431	DEF 39222 39253	the object of the verb Ireducel
+T432	TERM 39261 39267	DS tag
+T433	DEF 39268 39345	consists of a topic break index ( TBI ) , a topic name and a segment relation
+T434	TERM 39351 39355	Fact
+T435	DEF 39358 39564	each entry in a record defines what we call a fact about that entity , a A fact consists of three parts : its predicate name , and two arguments , being the entity of the record , and the filler of the slot
+T436	TERM 39568 39570	FG
+T437	DEF 39574 39645	the French translation of the Brown corpus rendered by the MT system GL
+T438	TERM 39648 39650	GG
+T439	DEF 39654 39682	the German translation by GL
+T440	TERM 39685 39687	SG
+T441	DEF 39691 39720	the Spanish translation by GL
+T442	TERM 39723 39725	SS
+T443	DEF 39729 39773	the Spanish translation by the MT system SYS
+T444	TERM 39780 39783	MSp
+T445	DEF 39787 39840	the merged Spanish translations from both NIT systems
+T446	DEF 39954 40124	consists of about 300,000 documents in Japanese , plus about 30 queries with labeled relevance judgement for training and 53 queries with relevance judgements for testing
+T447	DEF 40233 40337	taking values in the state space S ( in the WSME case , the state space is the set of possible sentences
+T448	TERM 40347 40360	LCS framework
+T449	DEF 40445 40470	the model being evaluated
+T450	TERM 40483 40486	T )
+T451	DEF 40490 40570	the test corpus , considered to be a set of statistically independent sentence p
+T452	DEF 40668 40756	Content-based measures assign different rankings when ground truths do disagree in focus
+T453	TERM 40760 40781	Task-based evaluation
+T454	DEF 40793 40999	consists of the following three steps : ( l ) Data preparation : Assume an information need , create a query for the information need , and prepare simulated search results with different types of summaries
+T455	TERM 41006 41012	course
+T456	TERM 41086 41107	define term frequency
+T457	DEF 41111 41173	the number of times the word appears in the candidate sentence
+T458	TERM 41180 41198	document frequency
+T459	DEF 41202 41252	the number of sentences in which this word appears
+T460	TERM 41480 41490	user model
+T461	DEF 41499 41537	represents a user ' s presumed beliefs
+T462	TERM 41643 41645	Bn
+T463	DEF 41650 41687	the unrepeated terminal nodes from A1
+T464	TERM 41701 41708	context
+T465	DEF 41712 41865	the set of all predicates subsumed by the syntactico-semantic structure between the nearest positive example on the left and the nearest one on the right
+T466	TERM 41872 41878	sem_XB
+T467	DEF 41882 41936	the list of isa_X and has_hypernym_X predicates for Bi
+T468	TERM 41940 41948	Coverage
+T469	DEF 41960 42033	how many pairs which appeared in a test set also appear in a trainlug set
+T470	TERM 42047 42055	quantity
+T471	TERM 42206 42213	H ( C )
+T472	DEF 42217 42279	the class entropy , defined as H ( C ) =~ P ( c ) log 2P ( c )
+T473	TERM 42294 42300	Pattem
+T474	TERM 42309 42315	-which
+T475	DEF 42325 42494	the set of extraction patterns learned in the lab , one set per scenario template -to extract specific types of information from the input Korean documents , once parsed
+T476	DEF 42689 42783	the single colour scenario 5 in fig3With EuroWordNet ( http : //www.hum.uva.nl/-ewn/ ) synsets
+T477	DEF 42826 42928	a number of conceptual primitives of that type , which are the basic building blocks of LCS structures
+T478	DEF 43018 43086	the MT engine , even though they may in fact be actual Spanish words
+T479	TERM 43094 43112	tribute Evaluation
+T480	DEF 43116 43248	the process of computing values for every attribute instance in the tree according to the semantic rules defined for each production
+T481	DEF 43256 43411	parsers combine lexical indices such as discourse markers with formatting instructions ( HTML tags ) for analyzing enumerations and associated initializers
+T482	TERM 43441 43450	utterance
+T483	DEF 43465 43533	a continuous speech region delimited by pauses of 400 msec or longer
+T484	DEF 43603 43696	ubiquitous in spoken English , but no satisfactory scheme for transcribing these items exists
+T485	TERM 43703 43721	measured stability
+T486	TERM 43810 43825	reproducibility
+T487	DEF 44021 44255	A ) for chance agreement P ( E ) : K = P { A ) -P ( E ) 1-P ( Z ) Kappa is 0 for if agreement is only as would be expected by chance annotation following the same distribution as the observed distribution , and 1 for perfect agreement
+T488	DEF 44271 44310	the crucial distinction between nucleus
+T489	DEF 44322 44358	the most important part of a message
+T490	TERM 44365 44374	satellite
+T491	DEF 44386 44420	the peripheral part of the message
+T492	TERM 44430 44453	cEClass H ( C [ F=v ] )
+T493	DEF 44457 44540	the class entropy computed over the subset of instances that have v as value for Fi
+T494	TERM 44548 44554	device
+T495	DEF 44567 44682	a construction SYNC which pairs a description of a gesture G with the syntactic structure of a spoken constituent c
+T496	TERM 44846 44855	scription
+T497	TERM 44880 44896	-each constraint
+T498	DEF 44900 45117	an atomic formula with free variables that specifies the requirement that some lexical meaning contributes to the description ; the variables are placeholders for the discourse entities that the description identifies
+T499	TERM 45123 45143	graph-based operator
+T500	DEF 45152 45278	a transformation on a multi-document graph ( MDG ) G which preserves some of its properties while reducing the number of nodes
+T501	TERM 45282 45336	ALLiS ( Architecture for Learning Linguistic Structure
+T502	TERM 45371 45378	2000b )
+T503	DEF 45382 45416	a symbolic machine learning system
+T504	DEF 45479 45556	refers to a ( binary valued ) feature function that describes a certain event
+T505	DEF 45565 45671	a parameter that indicates how important feature fi is for the model and Z ( h ) is a normalisation factor
+T506	TERM 45677 45682	parse
+T507	DEF 45689 45778	consists of a stack of lexicalized predicates and a list of words from the input sentence
+T508	TERM 45786 45800	Dialog Manager
+T509	DEF 45808 45892	broadly classified into two main modules : Content Selection and Content Realization
+T510	TERM 45896 45903	IG-Tree
+T511	DEF 45907 46010	a compressed representation of the training set that can be processed quickly in classification process
+T512	TERM 46014 46027	UCE filtering
+T513	DEF 46031 46057	a text categorization task
+T514	TERM 46079 46083	IfV~
+T515	DEF 46231 46300	the target language model and AWT are the different reorderings of WT
+T516	DEF 46402 46449	pairs corresponding to the three search methods
+T517	TERM 46458 46461	pos
+T518	DEF 46465 46545	the position • of the document in the ordered list returned by the search method
+T519	TERM 46552 46562	assessment
+T520	DEF 46566 46599	the assessment of one participant
+T521	TERM 46633 46639	posi_v
+T522	DEF 46651 46682	the region in which a word lies
+T523	TERM 46686 46688	GP
+T524	TERM 46693 46696	GP/
+T525	DEF 46700 46756	a phrase headed by locational noun or locational adjunct
+T526	TERM 46764 46782	generation process
+T527	DEF 46783 46885	consists of a series of structure mappings between adjacent strata until the SMorph stratum is reached
+T528	TERM 46889 46892	REA
+T529	DEF 46930 47044	includes the modules described in this paper , and can engage in a variety of interactions including that in ( 5 )
+T530	TERM 47052 47058	vector
+T531	DEF 47066 47162	consists of an ordered list of terms , and therefore , the contextual cues have also disappeared
+T532	TERM 47166 47170	GTAG
+T533	DEF 47174 47260	a multilingual text generation formalism derived from the Tree Adjoining Grammar model
+T534	DEF 47355 47430	the conditional probability of a word given with the previous word sequence
+T535	TERM 47433 47446	P ( wilw~-l )
+T536	DEF 47455 47504	shows the prediction of a word in a given context
+T537	TERM 47508 47528	Conventional parsing
+T538	DEF 47635 47738	difficulty in selecting useful features as well as finding appropriate combination of selected features
+T539	TERM 47742 47755	Content-based
+T540	DEF 47765 47878	increase the correlation of rankings induced by synonymous ground truths , and exhibit other desirable properties
+T541	DEF 47943 47979	the Overlap metric given in equation
+T542	TERM 47998 47999	Y
+T543	DEF 48005 48036	the distance between patterns X
+T544	TERM 48073 48075	wi
+T545	DEF 48079 48137	a weight for feature i , and 5 is the distance per feature
+T546	TERM 48141 48152	POS tagging
+T547	DEF 48156 48192	a useful first step in text analysis
+T548	DEF 48204 48462	a prototypical benchmark task for the type of disambiguation problems which is paramount in natural language processing : assigning one of a set of possible labels to a linguistic object given different information sources derived from the linguistic context
+T549	TERM 48587 48592	mummy
+T550	DEF 48596 48620	a body wrapped in sheets
+T551	DEF 48639 48743	identifying the words string in a character sequence is known as the segmentation / tokenization problem
+T552	TERM 48754 48768	mixture models
+T553	DEF 48912 48965	indicating that they are essential to text processing
+T554	TERM 48975 48979	tile
+T555	TERM 48999 49011	focus domain
+T556	DEF 49015 49072	the task of converting the complete focus into one phrase
+T557	TERM 49301 49302	m
+T558	DEF 49306 49380	the number of training documents which does not belong to the target event
+T559	TERM 49387 49389	Sx
+T560	DEF 49393 49486	a test document which should be classified as to whether or not it discusses the target event
+T561	DEF 49552 49629	a total of 1 ,468 words comprised of 755 content words and 713 function words
+T562	TERM 49637 49652	Panasonic LC90S
+T563	DEF 49656 49672	a 19 '' -display
+T564	TERM 49680 49690	base model
+T565	DEF 49699 49816	the distance between a test item and each memory item as the number of features for which they have a different value
+T566	DEF 49848 49910	the occurrence probabilities of term t I and t 2 in a sentence
+T567	DEF 49952 49998	a comprehensive English Grammar written in FUF
+T568	TERM 50102 50105	nt2
+T569	DEF 50109 50148	the individual term frequency of term t
+T570	TERM 50230 50233	ntt
+T571	DEF 50237 50332	the co-occurrence frequency of term t I and t 2 if they are all in a sentence of the collection
+T572	TERM 50342 50361	lexicalized grammar
+T573	TERM 50365 50370	G-TAG
+T574	DEF 50374 50437	compiled from the recta-grammar designed and implemented by M.H
+T575	TERM 50445 50450	R ( z
+T576	DEF 50560 50637	An equivalence class consists of all the samples z that have the same R ( z )
+T577	TERM 50643 50659	textual document
+T578	DEF 50663 50682	a sequence of terms
+T579	TERM 50686 50690	GIZA
+T580	DEF 50694 50761	an intermediate program in a statistical machine translation system
+T581	DEF 50819 50869	a simple modification of the AdaBoost.MH algorithm
+T582	DEF 50878 50968	consists of reducing the feature space that is explored when learning each weak classifier
+T583	TERM 50977 51005	Sense Disambiguation ( WSD )
+T584	DEF 51009 51106	the problem of assigning the appropriate meaning ( sense ) to a given word in a text or discourse
+T585	DEF 51169 51249	the full model : all variables were used to determine the discriminant functions
+T586	DEF 51259 51405	the forward model : starting from an empty model , variables were introduced in order to create a reduced model , with a small number of variables
+T587	DEF 51416 51519	the backward model : starting from the full model , variables were eliminated to create a reduced model
+T588	TERM 51527 51528	X
+T589	DEF 51532 51606	the initial two-characters of the keyword and Y is the remained characters
+T590	TERM 51637 51659	annotation meta-scheme
+T591	DEF 51663 51752	a general descriptive framework in which different annotation schemes can be accommodated
+T592	TERM 51873 51875	ue
+T593	DEF 51880 51912	the mean vectors of the class wc
+T594	DEF 51955 51994	the covariance matrices of the class wc
+T595	TERM 52023 52026	1-I
+T596	TERM 52049 52054	SUPAR
+T597	DEF 52058 52111	a computational system focused on anaphora resolution
+T598	TERM 52115 52127	SGML mark-up
+T599	DEF 52139 52227	the logical structure of a document and its syntax in the form of a context-free grammar
+T600	TERM 52286 52302	class complexity
+T601	DEF 52306 52449	the number of bits conveyed by distinguishing one type of object from that class , plus the maximum object complexity that occurs in that class
+T602	TERM 52467 52479	ideal answer
+T603	DEF 52483 52580	a full sentence that contains the information given by the question and the information requested
+T604	TERM 52595 52617	BNP ( base noun phrase
+T605	DEF 52623 52669	defined as simple and non-nesting noun phrases
+T606	TERM 52766 52767	n
+T607	DEF 52771 52845	the number of words and R represents the number of regions in the sentence
+T608	DEF 52948 53020	a template-based textrealization system that generates text in real-time
+T609	TERM 53024 53049	MI ( Mutual Information )
+T610	DEF 53053 53188	a measure of word association , and used under the assumption that a highly associated word n-gram is more likely to be a compound noun
+T611	TERM 53192 53198	Corpus
+T612	DEF 53201 53261	consists of local news with more than 325 million characters
+T613	TERM 53271 53279	rs > tag
+T614	DEF 53304 53335	the name of the varying element
+T615	TERM 53339 53350	Furthermore
+T616	TERM 53353 53357	Eset
+T617	DEF 53361 53422	the only tree set that satisfies all the following conditions
+T618	DEF 53464 53604	a decomposition of T* , that is , T* would be generated if the trees in the set were combined via the substitution and adjunction operations
+T619	TERM 53615 53616	H
+T620	DEF 53620 53640	a subset of Corpus I
+T621	DEF 53727 53926	a representation of a picture in SAGE format ( which has been annotated to indicate the types of complexity of each grapheme ) together with a goal , which can typically be interpreted as `` describe
+T622	DEF 53939 54079	captures the meanings of words in the text and represents them in a set of ontological concepts interconnected through ontological relations
+T623	TERM 54085 54104	C3 ) Target grammar
+T624	DEF 54107 54185	Each tree in the set falls into one of the three types as specified in Section
+T625	TERM 54198 54200	+1
+T626	DEF 54215 54325	the algorithm needs one bit to indicate whether the collocational relationship between the two clusters exists
+T627	TERM 54356 54368	verb comprar
+T628	TERM 54409 54428	ontological concept
+T629	TERM 54435 54443	PURCHASE
+T630	DEF 54453 54513	a generic frame structure corresponding to purchasing events
+T631	TERM 54520 54528	ontology
+T632	DEF 54532 54567	a body of knowledge about the world
+T633	TERM 54589 54607	Germanic languages
+T634	TERM 54713 54730	Romance languages
+T635	DEF 54736 54798	a verb-framed language and expresses the path in the main verb
+T636	TERM 54802 54808	Motion
+T637	DEF 54812 54909	a type of framing event where the path is in the main verb for VFLs and in the satellite for SFLs
+T638	DEF 54920 54963	consists of two words and a dependency type
+T639	TERM 54972 54982	meta-chain
+T640	DEF 54989 55096	a representation of every possible lexical chain that can be computed starting with a word of a given sense
+T641	TERM 55189 55199	EntityType
+T642	DEF 55203 55304	the trigger for the relation , i.e. , the rule is applied whenever a string of that type is extracted
+T643	TERM 55308 55318	Clustering
+T644	DEF 55321 55402	The ability to cluster similar documents and passages to find related information
+T645	TERM 55453 55463	query tool
+T646	DEF 55467 55689	to store the information one wants to search for in a relational database and then to translate an expression in the query language presented in the previous section into an SQL expression that is evaluated on the database
+T647	TERM 55698 55713	decision-making
+T648	DEF 55748 55806	one of the components in a larger decision-malting process
+T649	DEF 55815 55853	the case in speech recognition systems
+T650	TERM 55953 55956	But
+T651	TERM 55980 55994	HAS-PART-STATE
+T652	DEF 55998 56065	a state in which only one is present , which is obviously `` little
+T653	TERM 56156 56172	adjective phrase
+T654	TERM 56190 56206	adverbial phrase
+T655	TERM 56219 56235	base noun phrase
+T656	TERM 56249 56269	base temporal phrase
+T657	TERM 56280 56300	base location phrase
+T658	TERM 56311 56327	base verb phrase
+T659	TERM 56340 56360	base quantity phrase
+T660	DEF 56695 56817	Chinese based phrases are recognized as atomic parts of a sentence beyond words that posses certain functions and meanings
+T661	TERM 56824 56833	TRANSTYPE
+T662	DEF 56837 56931	a specialized text editor with an embedded Machine translation engine as one of its components
+T663	TERM 56941 56960	comprehension tests
+T664	DEF 56965 57102	designed to help evaluate a listener 's understanding of a spoken passage and are frequently a key component of language competency exams
+T665	TERM 57106 57124	Conversation agent
+T666	DEF 57128 57237	a kind of intelligent agent a computer program that is able to communicate with humans as another human being
+T667	DEF 57387 57522	a new measure , called success rate which indicates if a question has an answer in the top ten documents returned by a retrieval system
+T668	TERM 57815 57818	MMS
+T669	DEF 57822 58037	the similarity score with the same sentence ) : The sum of scores of~ 2 phrase similarities ] The MMS of ~ ( The MMS of~ the user question ] × \the KU case ] The above score is given to the KU as its certainty score
+T670	TERM 58043 58065	difference coefficient
+T671	DEF 58098 58149	the relative frequency of a word in the two corpora
+T672	TERM 58153 58175	buildFactoringStrategy
+T673	DEF 58189 58217	returns inside a list a pair
+T674	DEF 58252 58336	the matrix ' s dimension ( i.e. , column ) with the lowest number of distinct values
+T675	TERM 58343 58346	MCE
+T676	DEF 58350 58399	a pair consisting of a word and a dependency type
+T677	TERM 58403 58406	IBR
+T678	DEF 58416 58478	the average number of new attributes introduced per user query
+T679	TERM 58644 58645	p
+T680	DEF 58649 58702	the number of positive examples covered by the clause
+T681	TERM 58705 58706	n
+T682	DEF 58710 58749	the number of negative examples covered
+T683	TERM 58778 58782	WT )
+T684	TERM 58859 58860	e
+T685	DEF 58864 58981	the empty string and wi_zi is the symbol pair ( colons are the delimiters ) drawn from the source and target language
+T686	TERM 58999 59012	tree distance
+T687	DEF 59031 59075	the cost of the sequence minimizing this sum
+T688	TERM 59081 59096	folded treebank
+T689	DEF 59100 59233	a representation of a set of parse trees which allows an immediate assessment of the effects of inhibiting specific rule combinations
+T690	TERM 59249 59252	IB1
+T691	DEF 59256 59287	a k-nearest neighbour algorithm
+T692	TERM 59295 59309	check operator
+T693	DEF 59352 59488	a relevant answer to Q given the current information state , according to a ( domain-dependent ) definition of question-answer relevance
+T694	TERM 59496 59508	test queries
+T695	DEF 59513 59572	real world queries that express a concrete information need
+T696	TERM 59648 59669	morphosyntactic level
+T697	DEF 59673 59858	a two-layer annotation structure , containing respectively information on word category and morphosyntactic features ( pos tagging ) , and non recursive phrasal nuclei ( called chunks )
+T698	TERM 59881 59899	cascaded processes
+T699	DEF 59909 60156	a concept lexicon , accessible via a concept matcher : these modules , which are called by the construction process , find best matches for structures that can either be subsumed by a more complex concept or may represent still incomplete concepts
+T700	DEF 60170 60263	refers to any form of language-based communication involving multiple sentences or utterances
+T701	DEF 60534 60629	the Content slot of the problem identification template is instantiated with all the sentence •
+T702	TERM 60680 60705	parenthetical expressions
+T703	DEF 60714 60939	the What slot 'of the topic of the document template is instantiated with a parsed sentence fragment • to the left or to the right of the make known relation depending on the attribute voice of the verb ( active vs. passive )
+T704	TERM 60943 60950	Entropy
+T705	DEF 60960 61037	the uncertainty of assigning a value to a random variable over a distribution
+T706	TERM 61068 61081	description L
+T707	DEF 61087 61227	consists of a list of constraints @ Li ( x ) formulated in terms of a tuple of variables x and atomic conditions on those variables Li ( x )
+T708	TERM 61233 61236	Rec
+T709	DEF 61247 61381	the demonstrate~ that the criterion , domain dependency ratio of the documents judged YES that were also of words effectively employed
+T710	TERM 61409 61413	Tree
+T711	DEF 61417 61497	the percent of the documents that were evaluated as YES which corretion Tradeoff
+T712	DEF 61507 61608	allows to carry out either a full or a partial parsing of the text , with the same parser and grammar
+T713	TERM 61646 61670	effectiveness F~ ( e i )
+T714	DEF 61674 61768	measured by the reduction in error which results from adding the lexical entry to -~ Error ( e
+T715	DEF 61795 61955	the best probability model for a given set of data is a model that uses the shortest code length for encoding the model itself and the given data relative to it
+T716	DEF 61996 62110	the second phase of rule insertion translates each rule into a M-dimensional vector a and a N-dimensional vector b
+T717	TERM 62119 62120	M
+T718	DEF 62124 62215	the total number of features in the keyword feature table and N is the number of categories
+T719	TERM 62219 62234	Precision ( P )
+T720	DEF 62238 62330	the percentage of the predicted documents for a given category that are classifted correctly
+T721	TERM 62338 62345	mention
+T722	DEF 62349 62377	a child of a relative clause
+T723	DEF 62426 62496	carried out on a subset of 21 highly ambiguous words of the DSO corpus
+T724	DEF 62508 62578	a semantically annotated English corpus collected by Ng and colleagues
+T725	TERM 62629 62650	Entropy Cross entropy
+T726	DEF 62654 62805	a goodness measure for probability estimates that takes into account the accuracy of the estimates as well as the classification accuracy of the system
+T727	TERM 62875 62876	}
+T728	DEF 62880 62959	a random variable specifying the potential segmentation position in a context x
+T729	TERM 62965 62973	tree-cut
+T730	DEF 62977 63008	a partition of a thesaurus tree
+T731	TERM 63019 63029	UNL system
+T732	DEF 63043 63201	consists of two main processes , the encoder and decoder , and several linguistic resources , each group of these corresponding to a NL embedded in the system
+T733	TERM 63240 63245	Lists
+T734	TERM 63521 63525	jC-e
+T735	DEF 63534 63606	the fact that the semantic content of unit j is realized fully in unit e
+T736	TERM 63609 63613	jD-e
+T737	DEF 63622 63692	the fact that the semantic content of unit e is realized fully in unit
+T738	TERM 63696 63722	Domain dependency of words
+T739	DEF 63726 63794	a measure showing how greatly each word features a given set of data
+T740	DEF 63801 63923	a suggestion : REINTERPRET_data.structures like ( 5 ) as compatible with descriptions of collections as well as singletons
+T741	TERM 63940 63955	Chinese phrases
+T742	TERM 64096 64108	PROPER__NOUN
+T743	DEF 64123 64171	a noun phrase in which all words are capitalized
+T744	TERM 64231 64239	F ( el )
+T745	DEF 64243 64322	the chunking error number of the lexical entry e i for the old lexicon r~ Error
+T746	TERM 64336 64345	+~ te i )
+T747	DEF 64349 64397	the chunking error number of the lexical entry e
+T748	TERM 64434 64436	A~
+T749	DEF 64440 64498	the list of new lexical entries added to the old lexicon ~
+T750	TERM 64508 64540	Maximum Entropy principle ( ME )
+T751	DEF 64544 64664	an appropriate framework for combining information of a diverse nature from several sources into the same language model
+T752	TERM 64690 64701	aggregation
+T753	DEF 64705 64804	a post planning process whose preferences are only partially taken into account by the text planner
+T754	TERM 64846 64849	PSA
+T755	DEF 64853 65014	a miniature robot currently being developed at NASA Ames Research Center , which is intended for deployment on the Space Shuttle andr International Space Station
+T756	TERM 65022 65043	keyword SEQ specifies
+T757	DEF 65068 65113	a list of words in their correct linear order
+T758	DEF 65140 65344	a notion of.structural compatibility that : is weaker than isomorphism ; section 4 shows that we can find plausible counterexamples even to this weaker formulation , and discusses why these passages occur
+T759	TERM 65352 65361	TF column
+T760	DEF 65372 65433	the average term frequency of a given term within the cluster
+T761	TERM 65447 65452	event
+T762	DEF 65456 65495	the subject of a document itself , i .e
+T763	DEF 65610 65715	a pronominal referent is equated with an abstract object , e.g. , x is making it easy , x is a suggestion
+T764	DEF 65748 65937	a multi-concept learning system for free text that follows a multi-strategy constructive learning approach ( MCL ) ( Michalshi , 1993 ) and supports insufficient amounts of training corpora
+T765	TERM 65945 65952	SIFAS (
+T766	DEF 65953 66101	Syntactic Marker based Full-Text Abstraction System ) system has been implemented to use discourse markers in the automatic summarization of Chinese
+T767	TERM 66126 66144	keyword extraction
+T768	DEF 66147 66224	the document is first segmented and converted into a keyword frequency vector
+T769	TERM 66267 66270	tfi
+T770	DEF 66274 66318	the in-document term frequency of keyword wi
+T771	TERM 66325 66326	M
+T772	DEF 66330 66373	the number of the keyword features selected
+T773	TERM 66402 66418	markup primitive
+T774	DEF 66422 66591	the dement ( a term inherited from TEI and SGML ) which represents a phenomenon such as a particular phoneme , word , utterance , dialogue act , or communication problem
+T775	TERM 66599 66614	entropy H ( V )
+T776	DEF 66618 66709	the expected negative log likelihood of random variable V : H ( V ) = -EX ( logdv ( V ) ) )
+T777	TERM 66717 66724	level-0
+T778	DEF 66730 66755	consists of a single node
+T779	TERM 66804 66820	utility function
+T780	DEF 66824 66941	a weighted sum of individual utility functions , which represent the preference assume that weights Wi and Wj are set
+T781	DEF 67002 67131	the application of another sampling technique in the parameter estimation process of the WSME model which was introduced by Propp
+T782	DEF 67173 67200	the Perfect Sampling ( PS )
+T783	TERM 67227 67253	reading comprehension test
+T784	DEF 67257 67335	the sum of the scores for answers corresponding to each question for that test
+T785	TERM 67339 67345	Corpus
+T786	TERM 67350 67356	corpus
+T787	DEF 67360 67385	an ordered set of strings
+T788	DEF 67398 67464	provides movie listing information involving knowledge about towns
+T789	TERM 67535 67546	linguistics
+T790	TERM 67549 67557	telicity
+T791	DEF 67561 67596	a phase feature used in classifying
+T792	TERM 67604 67614	top object
+T793	DEF 67618 67736	a move with two roles : A source location ( which is a city Hanover ) , and a departure time ( which is a date day 1 )
+T794	TERM 67913 67920	however
+T795	TERM 67923 67930	English
+T796	DEF 67934 67970	the most popular language being used
+T797	DEF 68016 68081	compatible with descriptions of collections as well as singletons
+T798	TERM 68120 68135	structural tags
+T799	DEF 68179 68247	the structural tag consists of three parts : 1 ) Structural relation
+T800	TERM 68265 68273	polysemy
+T801	DEF 68288 68325	the average number of senses of words
+T802	DEF 68514 68638	a pair composed of a N and a V which are related by one of the four semantic relations defined in the qualia structure in GL
+T803	TERM 68658 68668	acceptable
+T804	DEF 68672 68780	the sum of perfect and ok scores , s Figure 6 shows the results of the intra-site and inter-site evaluations
+T805	TERM 68784 68799	Maximum entropy
+T806	DEF 68803 68929	a technique for automatically acquiring knowledge from incomplete information , without making any unsubstantiated assumptions
+T807	TERM 69020 69024	Y. X
+T808	DEF 69028 69054	a candidate of proper name
+T809	TERM 69062 69063	Y
+T810	DEF 69067 69099	a candidate of organization type
+T811	DEF 69119 69189	the search ends , the weight vectors w~ and w~ are updated accordingly
+T812	DEF 69203 69427	kNN performs online scoring to find the training patterns that are nearest to a test pattern and makes the decision based on the statistical presumption that patterns in the same category have similar feature representations
+T813	DEF 69465 69499	a group of words containing a verb
+T814	TERM 69510 69528	learning algorithm
+T815	DEF 69539 69681	a variant of the Insideutside algorithm that induces grammars expressed in the Probabilistic Lexicalized Tree Insertion Grammar representation
+T816	DEF 69764 69975	a 'lemma' as a representation of the meaning and the syntactic properties of a word , and the task of lemma retrieval as a crucial step in the process of grammatical encoding , where buildsituations of utterance
+T817	TERM 69983 69996	Penn Treebank
+T818	DEF 70009 70067	consists of trees with an additional coindexation relation
+T819	DEF 70133 70214	a tree-like structure ) in the corpus might contain completely disconnected nodes
+T820	DEF 70242 70341	represents whether NJFun had trouble understanding the user in the earlier part of the conversation
+T821	TERM 70364 70371	RSTTool
+T822	DEF 70375 70450	a graphical tool for annotating a text in terms of its rhetorical structure
+T823	TERM 70454 70457	~b~
+T824	TERM 70471 70481	appearance
+T825	DEF 70492 70537	a relation between concepts and relationships
+T826	TERM 70541 70545	~Doc
+T827	DEF 70554 70577	the number of documents
+T828	TERM 70583 70584	°
+T829	DEF 70588 70631	the head of X m and the anchor of the etree
+T830	TERM 70635 70639	That
+T831	DEF 70645 70797	the Text Planner would plan the content of Un+l by aiming to realise a proposition in the knowledge base which mentions an entity which is salient in Un
+T832	DEF 70815 70927	easily constructed by combining morphemes and their meanings are the semantic composition of morpheme components
+T833	TERM 70950 70954	Wpit
+T834	DEF 70963 71005	TF*IDF of the term t in the i-th paragraph
+T835	TERM 71035 71108	Question Answering Quarc ( QUestion Answering for Reading Comprehension )
+T836	DEF 71112 71244	a rule-based system that uses lexical and semantic heuristics to look for evidence that a sentence contains the answer to a question
+T837	DEF 71254 71345	uses heuristic rules that look for lexical and semantic clues in the question and the story
+T838	TERM 71367 71386	linearization phase
+T839	DEF 71390 71544	a word lattice specifying the sequence of words that make up the resulting sentence and the points of ambiguity where different generation paths are taken
+T840	TERM 71575 71597	Ground Units Grounding
+T841	DEF 71601 71765	the process by which information contributed by participants in interaction is taken to have entered the ' common ground ' , or mutual knowledge of the participants
+T842	DEF 71837 71933	utilizes templatedriven text generation , and passes on text strings to a stand-alone TTS system
+T843	TERM 71987 71988	n
+T844	DEF 71992 72017	a positive natural number
+T845	TERM 72111 72113	ne
+T846	DEF 72118 72189	the number of positive and negative examples covered by hk respectively
+T847	TERM 72204 72214	attributes
+T848	DEF 72218 72289	the analytic function that expresses the syntactic function of the word
+T849	TERM 72300 72309	embedding
+T850	DEF 72313 72393	one satisfying all the following conditions : strative or a bridging description
+T851	TERM 72450 72460	Complexity
+T852	TERM 72463 72468	There
+T853	DEF 72472 72618	a reward and a punishment associated with each system response that reflects the complexity of the content and realization of the system responses
+T854	TERM 72624 72632	Entities
+T855	DEF 72635 72684	representing objects ( individuals ) of the world
+T856	TERM 72782 72794	noun phrases
+T857	DEF 72798 72869	a parallel noun phrase , nor that component noun phrases ( proper nouns
+T858	TERM 72887 72898	possessives
+T859	TERM 72960 72978	argument generator
+T860	DEF 72982 73087	a typical pipelined architecture comprising a discourse planner , a microplanner and a sentence real izer
+T861	TERM 73110 73134	Bayes optimal prediction
+T862	DEF 73220 73283	the prior probability of l ( the fraction of examples labeled l
+T863	TERM 73290 73301	Pr ( xill )
+T864	DEF 73306 73424	the conditional feature probabilities ( the fraction of the examples labeled l in which the ith feature has value xi )
+T865	DEF 73498 73747	the general language probability for word W in language x . number of occurrences of W in D • e ( WlD ) = length of D In principle , any large corpus Cx that is representative of language x can be used in computing the general language probabilities
+T866	TERM 73753 73776	inforrnPositive ( p=v )
+T867	DEF 73779 73859	user confirms that the value of parameter p is v . p E params ( AD ) U { aTask }
+T868	TERM 73869 73873	thus
+T869	DEF 73880 73981	a good candidate for producing technical documentation complying with the constraints of an ( EM ) CL
+T870	TERM 74113 74114	d
+T871	DEF 74118 74161	the distance or number of intervening words
+T872	TERM 74171 74185	XML properties
+T873	DEF 74188 74297	the grammar has easily access to all the levels of the document ( word , tag , phrase , and higher structures
+T874	TERM 74322 74332	hyperonymy
+T875	DEF 74379 74395	a hyperonym of B
+T876	TERM 74402 74403	B
+T877	DEF 74407 74603	a hyperonym of C , then A is a hyperonym of C . Following common practice , we call A a direct hyperonym of B , while it is only an indirect hyperonym of C. The same holds for the inverse relation
+T878	TERM 74618 74621	WIT
+T879	DEF 74631 74736	an incremental understanding mechanism that enables robust utterance understanding and realtime responses
+T880	DEF 74771 74927	learns a sparse network of linear functions , in which the targets ( states , in this case ) are represented as linear functions over a common feature space
+T881	TERM 74931 74948	Error probability
+T882	DEF 74952 75008	a metric for evaluating segmentation results proposed in
+T883	TERM 75064 75077	introduce CST
+T884	DEF 75116 75153	a paradigm for multidocument analysis
+T885	TERM 75191 75194	'FI
+T886	DEF 75200 75244	a measure that balances recall and precision
+T887	TERM 75248 75268	requestValue ( p=v )
+T888	DEF 75271 75328	system asks whether the value v of parameter p is correct
+T889	TERM 75336 75357	communication channel
+T890	DEF 75358 75392	consists of the trained classifier
+T891	TERM 75400 75416	deep translation
+T892	DEF 75423 75522	consists of an HPSG based analysis , semantic transfer and finally a TAG-based generator ( VMGECO )
+T893	DEF 75530 75595	Evaluating the coverage of hand-crafted grammars The XTAG grammar
+T894	DEF 75621 75743	a hand-crafted large-scale grammar for English , which has been developed at University of Pennsylvania in the last decade
+T895	DEF 75884 75994	the k-NN classification rule searches for nearest neighbours within these rules when classifying new instances
+T896	DEF 76025 76154	consists of speech , transcription delimited by slash units , prosodic , part of speech , dialogue acts and dialogue segmentation
+T897	TERM 76158 76167	Precision
+T898	DEF 76171 76313	the ratio between the number of correct parses produced by the specialized grammar and the total number of parses produced by the same grammar
+T899	TERM 76317 76325	Language
+T900	DEF 76329 76404	the best conceivable means to transfer information as pointedly as possible
+T901	TERM 76424 76425	e
+T902	DEF 76432 76502	the segmented Chinese words of the query after removing the stop words
+T903	DEF 76544 76575	a query model with categories C
+T904	DEF 76616 76675	a finite set with Lt n ( C U E U T ) = O , the set of nodes
+T905	TERM 76679 76693	Three measures
+T906	TERM 76767 76774	dEfined
+T907	DEF 76778 76865	the number of relevant documents retrieved over the total number of documents retrieved
+T908	DEF 76894 77004	the number of relevant documents retrieved over the total number of relevant documents found in the collection
+T909	TERM 77128 77129	P
+T910	DEF 77133 77226	the precision , R is the recall and is the relative importance given to recall over precision
+T911	TERM 77230 77239	Ambiguity
+T912	DEF 77243 77292	a natural enemy of efficient language acquisition
+T913	TERM 77299 77302	~ C
+T914	DEF 77306 77322	a total function
+T915	TERM 77342 77358	meta-interpreter
+T916	DEF 77362 77492	the chart parser augmented with the generation of needs and the partial proof is represented by the chart augmented with the needs
+T917	TERM 77496 77500	SVMs
+T918	DEF 77505 77599	so-called large margin classifiers and are well-known as their good generalization performance
+T919	TERM 77606 77615	Precision
+T920	DEF 77622 77696	the percentage of correct answers among the answers proposed by the system
+T921	TERM 77700 77705	GoDiS
+T922	DEF 77709 77894	a small-scale prototype and as such it suffers from the familiar drawbacks of many experimental systems : its lexicons and databases are very small , and the domain knowledge is limited
+T923	TERM 77904 77915	differences
+T924	TERM 77928 77933	• MBL
+T925	DEF 77937 78001	a lazy learning algorithm that keeps all training data in memory
+T926	TERM 78005 78022	Prob-Parser ( B )
+T927	DEF 78026 78162	the probabilistic parser using a beam width of B . TABULATE is CHILL using the TABULATE induction algorithm with determ ; nistic parsing
+T928	TERM 78176 78180	long
+T929	DEF 78385 78462	the case of machine translation , evaluation in generation is a complex issue
+T930	TERM 78677 78679	O~
+T931	DEF 78683 78837	the distribution environment of ~ and is make up of nouns which can be collocated with distribution environment composed of adjectives collocated with N i
+T932	DEF 78867 78886	the source language
+T933	TERM 78893 78903	PAR schema
+T934	TERM 79037 79042	float
+T935	DEF 79045 79097	the main verb in English , or the adjunct in Spanish
+T936	TERM 79107 79119	network name
+T937	DEF 79123 79186	the identifier of the language model for the speech recognition
+T938	TERM 79190 79195	TIDES
+T939	DEF 79207 79272	the pinnacle of information access and is a real challenge for MT
+T940	TERM 79280 79287	utility
+T941	TERM 79305 79310	graph
+T942	DEF 79314 79401	the summation of the reward/punishment ratio of all the nodes ( subgoals ) in that path
+T943	TERM 79405 79454	Weighted Probability Distribution Voting ( WPDV )
+T944	DEF 79458 79506	a supervised learning approach to classification
+T945	DEF 79570 79609	A 's meaning entails lemma B 's meaning
+T946	TERM 79612 79613	B
+T947	DEF 79617 79633	a hyperonym of A
+T948	DEF 79667 79753	consists of rules that include information about the context where the rule is applied
+T949	TERM 79767 79775	Yarowsky
+T950	TERM 79907 79918	collocation
+T951	DEF 79922 79970	a coccurrence of two words in a defined relation
+T952	TERM 79974 79978	Hits
+T953	DEF 79987 80143	how many of the files passed to IE actually had at least one template in them and Templates shows how many templates were extracted as a result of the query
+T954	TERM 80164 80165	L
+T955	DEF 80169 80270	the set of left adjacent strings of X , tz~L and ILl means the number of unique left adjacent strings
+T956	TERM 80299 80301	M2
+T957	DEF 80305 80374	the proposition that the discourse entity B2 is a member of class dog
+T958	TERM 80439 80454	coccurring word
+T959	TERM 80474 80475	s
+T960	DEF 80479 80559	a statistically significant indicator of the presence of w . Let a data sequence
+T961	TERM 80632 80634	wi
+T962	DEF 80645 80722	the state of coccurrence of words s and w in the i-th text in the corpus data
+T963	DEF 80787 80853	a foreign key referring to the colnmn clad in the table pair_class
+T964	TERM 80877 80878	u
+T965	DEF 80882 80901	the utterance class
+T966	TERM 80905 80908	QS1
+T967	DEF 80912 80977	the subset of questions whose number of morphological derivations
+T968	TERM 80982 80990	synonyms
+T969	TERM 81014 81017	QS2
+T970	DEF 81021 81091	the subset whose number of lexical expansions is equal to two or three
+T971	TERM 81094 81097	QS3
+T972	DEF 81101 81164	the subset whose number of lexical expansions is lower than two
+T973	TERM 81168 81175	IqJ ] l
+T974	DEF 81179 81232	the number of symbols in the jt~ string of the corpus
+T975	TERM 81240 81246	static
+T976	DEF 81252 81329	consists of preconditions , goal , content ( immediate act ) and consequences
+T977	DEF 81363 81523	consists of four fields : the segment string , a counter for the occurrences of that string in the corpus , the tag and the attributes ( type , id and corresp )
+T978	TERM 81527 81540	Text chunking
+T979	DEF 81541 81661	consists of dividing a text into phrases in such a way that syntactically related words become member of the same phrase
+T980	DEF 81677 81778	consists of a tree of handlers , each handler encapsulates processing relevant to a particular schema
+T981	TERM 81786 81789	MDL
+T982	DEF 81793 81846	a principle of data compression in Information Theory
+T983	TERM 81893 81903	best model
+T984	DEF 81907 82073	the one which requires the minimum length ( often measured in bits ) to encode the model ( the model description length ) and the data ( the data description length )
+T985	TERM 82081 82089	purposes
+T986	DEF 82135 82255	the total number of parameters that need to be set in order to license all and only the sentences of the target language
+T987	TERM 82263 82271	test set
+T988	DEF 82277 82324	consists of the 3260 manually classified senses

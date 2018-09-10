@@ -1,0 +1,5 @@
+processed 9648 tokens with 1094 phrases; found: 1116 phrases; correct: 823.
+accuracy:  94.05%; precision:  73.75%; recall:  75.23%; FB1:  74.48
+            GENUS: precision:  62.97%; recall:  68.79%; FB1:  65.75  343
+            HYPER: precision:  63.52%; recall:  61.48%; FB1:  62.48  392
+             TERM: precision:  93.96%; recall:  95.47%; FB1:  94.71  381

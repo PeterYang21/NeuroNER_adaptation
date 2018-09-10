@@ -1,0 +1,5 @@
+# train model
+python main.py --maximum_number_of_epochs=20 --token_pretrained_embedding_filepath="" --dataset_text_folder="../data/w00"
+
+# deploy model to unannotated dataset
+python main.py --train_model=False --use_pretrained_model=True --dataset_text_folder=../data/unannotated_texts --pretrained_model_folder=../trained-models/w00_tptn

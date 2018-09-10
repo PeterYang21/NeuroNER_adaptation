@@ -1,0 +1,285 @@
+T1	TERM 304 321	silnple criterion
+T2	TERM 991 998	SemType
+T3	TERM 1111 1116	Label
+T4	TERM 2306 2317	overfitting
+T5	TERM 2378 2379	]
+T6	TERM 2606 2619	SENTID-14 Xia
+T7	TERM 2723 2740	SENTID-15 WordNet
+T8	DEF 2744 2831	a lexical ontology a variant on semantic networks with more of a hierarchical structure
+T9	TERM 2947 2962	SENTID-16 GoDiS
+T10	TERM 3896 3909	REXTOR System
+T11	TERM 4069 4078	SENTID-23
+T12	TERM 4082 4091	Precision
+T13	DEF 4098 4172	the percentage of correct answers among the answers proposed by the system
+T14	TERM 4191 4198	p ( i )
+T15	DEF 4202 4254	the position of the web document in the ordered list
+T16	TERM 5234 5259	SENTID-29 Each definition
+T17	DEF 5263 5336	a pair comprising a phrase category name and a network of word categories
+T18	TERM 5391 5412	compatibility defined
+T19	TERM 5713 5732	SENTID-32 The model
+T20	DEF 5736 5773	the probability distribution P ( nk )
+T21	TERM 5796 5798	nk
+T22	DEF 5802 5879	the number of attributes and Ck is the utterance class for system utte~anee k
+T23	TERM 5892 5904	bigram model
+T24	TERM 6009 6015	filter
+T25	TERM 6085 6094	SENTID-34
+T26	TERM 6344 6357	ACTIONS field
+T27	TERM 6469 6477	LU field
+T28	TERM 6561 6576	target grammars
+T29	TERM 6798 6807	SENTID-37
+T30	TERM 6949 6964	reasoning model
+T31	DEF 7711 7795	analyzes English text and builds a knowledge base from information found in the text
+T32	TERM 7999 8019	SENTID-47 Conceptual
+T33	DEF 8206 8250	a check box along with each retrieved record
+T34	DEF 8587 8612	a difference of 12 points
+T35	TERM 8628 8649	information structure
+T36	DEF 8650 8722	consists of two components : HowNet definitions and dependency relations
+T37	TERM 8930 8943	SENTID-53 sim
+T38	TERM 9141 9145	s2 )
+T39	TERM 9523 9524	J
+T40	TERM 9638 9657	SENTID-55 Authoring
+T41	TERM 9731 9747	root nonterminal
+T42	TERM 9873 9880	Prescod
+T43	TERM 9927 9946	SENTID-56 TRANSTYPE
+T44	TERM 10063 10084	syntactic information
+T45	TERM 10388 10397	N n ( c )
+T46	TERM 10431 10432	N
+T47	TERM 10582 10583	O
+T48	DEF 10587 10626	the specification of an object in class
+T49	TERM 10629 10653	SENTID-61 Disambiguation
+T50	TERM 10896 10912	spelling changes
+T51	TERM 11074 11081	Ariadne
+T52	DEF 11085 11117	a cheap hotel in the city centre
+T53	DEF 11209 11359	the occurrence of some specific cyclic subparts of graphs , selfreferring predicates , and chains of predicates which are not realizable in generation
+T54	TERM 11457 11460	ANC
+T55	TERM 11681 11688	problem
+T56	TERM 11737 11754	sentence analysis
+T57	DEF 11764 11809	a critical problem because of high complexity
+T58	TERM 11826 11842	indexing process
+T59	TERM 12461 12465	RLCS
+T60	TERM 12501 12511	xuel_jian3
+T61	TERM 12698 12709	recall rate
+T62	TERM 12755 12773	extraction process
+T63	DEF 12777 12796	a recurrent process
+T64	DEF 12918 12992	the most significant relative frequency difference between the two corpora
+T65	TERM 13212 13228	SENTID-78 recall
+T66	TERM 13442 13453	ADAM corpus
+T67	DEF 13465 13510	a corpus of 450 Italian spontaneous dialogues
+T68	TERM 13513 13530	SENTID-80 Chinese
+T69	DEF 13534 13604	a syllable-based language , where each syllable carries a lexical tone
+T70	TERM 13651 13669	unmatched template
+T71	DEF 14160 14210	Corresponding author 142 ambiguous WordNet synsets
+T72	TERM 14659 14681	CLEF generation system
+T73	DEF 14685 14714	a hierarchical representation
+T74	TERM 14890 14911	decomposition process
+T75	DEF 14915 15001	a match-structure indicating the hierarchical relationship between all lexical entries
+T76	TERM 15074 15100	lnterlingua Slot Structure
+T77	DEF 15111 15178	generates an interlingua representation from the SS of the sentence
+T78	TERM 15693 15716	morphological analysers
+T79	TERM 16104 16107	wsj
+T80	TERM 17259 17276	Adjoining Grammar
+T81	DEF 17515 17566	a set of contrasts between events , or observations
+T82	DEF 17620 17646	consists of three subparts
+T83	TERM 17996 18010	practical goal
+T84	DEF 18662 18718	User expertise level and corresponding dialog strategies
+T85	TERM 18803 18822	content realization
+T86	TERM 18868 18879	labeled idf
+T87	TERM 18968 18978	TDT system
+T88	TERM 19278 19297	reformulation model
+T89	TERM 19357 19367	SENTID-111
+T90	TERM 19414 19429	lexical context
+T91	TERM 19453 19473	SENTID-112 P ( NEG )
+T92	TERM 19651 19674	SENTID-113 Semantically
+T93	DEF 19821 19880	consists of 9603 texts for training and 3299 texts for test
+T94	TERM 19990 20004	modifier pairs
+T95	TERM 20155 20169	SEMCAT weights
+T96	TERM 20235 20243	Ontology
+T97	TERM 20756 20770	Fullfledged QA
+T98	TERM 21500 21513	Creole system
+T99	TERM 21831 21838	f ( w )
+T100	TERM 21955 21956	m
+T101	TERM 22041 22043	Sx
+T102	DEF 23002 23036	a sequence of 10 single characters
+T103	TERM 23039 23084	SENTID-129 Adaptive Resonance Associative Map
+T104	DEF 23097 23279	a class of predictive serforganizing neural networks that performs incremental supervised learning of recognition categories ( pattern classes ) and multidimensional maps of patterns
+T105	TERM 23325 23344	comprehension tests
+T106	TERM 23692 23714	SENTID-132 Intuitively
+T107	TERM 23933 23964	SENTID-133 Morphology induction
+T108	DEF 23968 24078	a subproblem of important tasks like automatic learning of machine-readable dictionaries and grammar induction
+T109	TERM 24616 24682	SENTID-136 ALLiS ( Architecture for Learning Linguistic Structures
+T110	TERM 24696 24703	2000a )
+T111	DEF 24707 24813	a symbolic machine learning system which generates categorisation rules from a tagged and bracketed corpus
+T112	DEF 25069 25137	a characterisation of the linguistic context in which a word appears
+T113	TERM 25251 25270	syntactic structure
+T114	TERM 25514 25517	y )
+T115	TERM 25562 25572	SENTID-141
+T116	DEF 25576 25637	a list of dialogue actions that the agent wishes to carry out
+T117	TERM 25941 25954	modifier tree
+T118	TERM 26363 26380	SENTID-146 Hownet
+T119	DEF 26384 26439	a knowledge base which was released recently on Intemet
+T120	TERM 27262 27286	intersentential anaphora
+T121	TERM 27717 27735	pronoun resolution
+T122	TERM 27885 27898	SENTID-154 S+
+T123	TERM 27903 27904	S
+T124	TERM 28450 28469	SENTID-156 Temporal
+T125	TERM 29425 29442	semantic vicinity
+T126	DEF 29466 29562	consists of the nodes and the arcs reachable from that node by traversing a small number of arcs
+T127	TERM 30392 30410	morphological rule
+T128	TERM 30923 30933	SENTID-169
+T129	TERM 31126 31129	dis
+T130	DEF 31139 31198	the revional distance and dis denotes the original distance
+T131	TERM 31264 31282	sentence structure
+T132	TERM 31514 31524	SENTID-173
+T133	TERM 31529 31537	subfield
+T134	DEF 31541 31619	a set of propositions which the agent assumes for the sake of the conversation
+T135	TERM 31813 31821	Sheckley
+T136	TERM 31882 31890	Sheckley
+T137	TERM 31918 31928	SENTID-176
+T138	TERM 32072 32089	SENTID-177 Models
+T139	TERM 32203 32226	robustness preprocessor
+T140	TERM 32676 32704	SENTID-182 Word segmentation
+T141	TERM 32861 32876	Reasoning Model
+T142	DEF 33372 33431	a very promising domain for an experimental dialogue system
+T143	TERM 33585 33594	generator
+T144	TERM 34243 34245	Yn
+T145	TERM 34589 34591	wi
+T146	TERM 34631 34644	SENTID-192 M5
+T147	TERM 34722 34732	SENTID-193
+T148	TERM 34735 34739	PRPZ
+T149	DEF 34743 34787	the partf-speech tag for possessive pronouns
+T150	TERM 34932 34935	NNS
+T151	TERM 34955 34959	NNPX
+T152	TERM 34988 34992	NNPS
+T153	TERM 35079 35081	Un
+T154	DEF 35085 35168	the most grammatically salient entity realised in U~_i which is also realised in Un
+T155	TERM 35594 35604	skip ratio
+T156	TERM 35841 35864	SENTID-199 requestValue
+T157	TERM 36001 36003	PN
+T158	TERM 36704 36733	statistical queries algorithm
+T159	DEF 36737 36838	a learning algorithm that constructs its hypothesis only using information received from an SQ oracle
+T160	DEF 37096 37181	a potentially helpful extension to memory-based learning of language processing tasks
+T161	DEF 37246 37348	computational linguistic research based on information extractable from structurally annotated corpora
+T162	TERM 37692 37714	SENTID-207 Furthermore
+T163	DEF 38487 38530	the basic building blocks of LCS structures
+T164	TERM 38570 38579	utterance
+T165	DEF 38594 38662	a continuous speech region delimited by pauses of 400 msec or longer
+T166	TERM 38680 38694	Dialog Manager
+T167	TERM 38789 38802	SENTID-213 IG
+T168	DEF 38811 38914	a compressed representation of the training set that can be processed quickly in classification process
+T169	TERM 38951 38954	gl~
+T170	DEF 39185 39203	a combining weight
+T171	TERM 39219 39224	mummy
+T172	DEF 39228 39252	a body wrapped in sheets
+T173	DEF 39522 39577	an accurate subset of sentences that a child might hear
+T174	TERM 39580 39596	SENTID-219 SURGE
+T175	DEF 39629 39675	a comprehensive English Grammar written in FUF
+T176	TERM 39789 39792	nt2
+T177	DEF 39796 39833	the individual term frequency of term
+T178	TERM 39917 39920	ntt
+T179	TERM 40022 40037	SENTID-221 GIZA
+T180	DEF 40041 40108	an intermediate program in a statistical machine translation system
+T181	TERM 40119 40142	SENTID-222 LazyBoosting
+T182	DEF 40176 40213	a simple modification of the AdaBoost
+T183	TERM 40214 40226	MH algorithm
+T184	DEF 40235 40325	consists of reducing the feature space that is explored when learning each weak classifier
+T185	TERM 40649 40663	backward model
+T186	DEF 40861 40933	a template-based textrealization system that generates text in real-time
+T187	TERM 41072 41108	SENTID-226 MI ( Mutual Information )
+T188	TERM 41206 41210	gram
+T189	TERM 41261 41267	LT TTT
+T190	DEF 41271 41345	a good tradeff between the rapidity of CASS and the rich formalism of XFST
+T191	TERM 41348 41367	SENTID-228 Corpus H
+T192	DEF 41371 41391	a subset of Corpus I
+T193	DEF 41714 41776	a verb-framed language and expresses the path in the main verb
+T194	TERM 41779 41796	SENTID-231 Motion
+T195	TERM 41900 41910	SENTID-232
+T196	TERM 42064 42067	LCS
+T197	DEF 42079 42180	predicate argument structure abstracted away from languagespecific properties of semantics and syntax
+T198	TERM 42197 42206	TRANSTYPE
+T199	DEF 42210 42304	a specialized text editor with an embedded Machine translation engine as one of its components
+T200	TERM 42307 42343	SENTID-235 Word Sense Disambiguation
+T201	TERM 42346 42351	WSD )
+T202	DEF 42355 42403	the problem of assigning the appropriate meaning
+T203	TERM 42555 42591	SENTID-237 Audio comprehension tests
+T204	DEF 42689 42733	a key component of language competency exams
+T205	TERM 42901 42934	SENTID-239 buildFactoringStrategy
+T206	DEF 43011 43095	the matrix ' s dimension ( i.e. , column ) with the lowest number of distinct values
+T207	TERM 43112 43115	MCE
+T208	DEF 43119 43168	a pair consisting of a word and a dependency type
+T209	TERM 43171 43185	SENTID-241 IBR
+T210	DEF 43195 43257	the average number of new attributes introduced per user query
+T211	TERM 43283 43291	a theory
+T212	DEF 43295 43330	the sum of the sizes of its clauses
+T213	TERM 43506 43507	p
+T214	TERM 43567 43568	n
+T215	DEF 43572 43611	the number of negative examples covered
+T216	TERM 43652 43665	description L
+T217	DEF 43671 43704	consists of a list of constraints
+T218	TERM 44106 44107	M
+T219	TERM 44173 44174	N
+T220	DEF 44178 44202	the number of categories
+T221	TERM 44205 44225	SENTID-247 Precision
+T222	TERM 44228 44231	P )
+T223	DEF 44235 44327	the percentage of the predicted documents for a given category that are classifted correctly
+T224	TERM 44366 44387	Entropy Cross entropy
+T225	TERM 44622 44623	}
+T226	DEF 44627 44704	a random variable specifying the potential segmentation position in a context
+T227	DEF 44734 44765	a partition of a thesaurus tree
+T228	TERM 44768 44805	SENTID-251 Domain dependency of words
+T229	DEF 44809 44877	a measure showing how greatly each word features a given set of data
+T230	TERM 44947 44955	F ( el )
+T231	DEF 44959 44999	the chunking error number of the lexical
+T232	TERM 45053 45061	~ te i )
+T233	DEF 45065 45105	the chunking error number of the lexical
+T234	TERM 45150 45152	A~
+T235	DEF 45156 45214	the list of new lexical entries added to the old lexicon ~
+T236	TERM 45339 45359	summarization method
+T237	TERM 45510 45542	Maximum Entropy principle ( ME )
+T238	DEF 45546 45666	an appropriate framework for combining information of a diverse nature from several sources into the same language model
+T239	TERM 45702 45713	aggregation
+T240	DEF 45717 45816	a post planning process whose preferences are only partially taken into account by the text planner
+T241	TERM 45863 45871	real PSA
+T242	DEF 45959 46036	intended for deployment on the Space Shuttle andr International Space Station
+T243	TERM 46136 46151	discourse model
+T244	TERM 46228 46235	level-0
+T245	DEF 46241 46266	consists of a single node
+T246	TERM 46388 46396	telicity
+T247	DEF 46400 46435	a phase feature used in classifying
+T248	TERM 46493 46508	source location
+T249	TERM 46588 46605	SENTID-262 Remedy
+T250	DEF 46609 46725	the template that is used to generate natural language responses and explanations corresponding to a particular goal
+T251	TERM 46828 46846	learning algorithm
+T252	TERM 47117 47135	decisional balance
+T253	TERM 47450 47467	equivalence class
+T254	TERM 47519 47537	SENTID-267 RSTTool
+T255	DEF 47541 47616	a graphical tool for annotating a text in terms of its rhetorical structure
+T256	DEF 47680 47744	a reference architecture for natural language generation systems
+T257	TERM 47820 47857	Answering for Reading Comprehension )
+T258	TERM 47996 48006	SENTID-270
+T259	DEF 48032 48103	the analytic function that expresses the syntactic function of the word
+T260	TERM 48197 48217	bridging description
+T261	DEF 48417 48487	an inflectional language that also employs prepositional constructions
+T262	TERM 48820 48822	Cx
+T263	TERM 49099 49114	reasoning model
+T264	DEF 49118 49169	interacting with the model of communication process
+T265	TERM 49172 49186	SENTID-276 WIT
+T266	DEF 49196 49301	an incremental understanding mechanism that enables robust utterance understanding and realtime responses
+T267	TERM 49304 49332	SENTID-277 Error probability
+T268	TERM 49512 49524	XTAG grammar
+T269	TERM 49686 49692	Lt ~ C
+T270	DEF 49696 49712	a total function
+T271	TERM 49747 49758	interpreter
+T272	TERM 49826 49839	partial proof
+T273	TERM 49895 49910	SENTID-281 SVMs
+T274	TERM 50012 50028	SENTID-282 GoDiS
+T275	TERM 50263 50266	MBL
+T276	DEF 50270 50334	a lazy learning algorithm that keeps all training data in memory
+T277	TERM 50554 50560	cousin
+T278	DEF 50564 50646	one of the three relations which indicate the grouping of related senses of a word
+T279	TERM 50762 50763	B
+T280	TERM 50836 50848	toolkit IWIT
+T281	TERM 51033 51045	SENTID-288 )
+T282	TERM 51061 51062	L
+T283	DEF 51066 51167	the set of left adjacent strings of X , tz~L and ILl means the number of unique left adjacent strings
+T284	TERM 51484 51492	test set
+T285	DEF 51498 51545	consists of the 3260 manually classified senses

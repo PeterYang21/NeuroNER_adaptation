@@ -1,0 +1,146 @@
+effectiveness by this method are ambiguities caused by more than one translation of a query term and failures to translate phrases during query translation . 
+In other words , W* = arg max P ( WIA ) = arg max P ( AI W ) Pr ( W ) where W is the string of words , wl , ... , wn , and A is the acoustic evidence ( Jelinek 1998 ) . 
+NPs have the feature types : Base ( the root word of the head word of the NP ) , AGR ( number/person information ) , SemType ( the semtype of the root form in the lexicon , e . g . , person , object , event , artifact , organization ) , Label ( the role type of the word in the sentence , e . g . , subject ) , and Gender . 
+The German Verbmobil corpus ( Stegmann et al. , 1998 ; Hinrichs et al. , 2000 ) is a treebank annotated at the University of Tiibingen SIMPX I VF ! 
+This paper describes an automatic method for extracting systematic polysemy from a hierarchically organized semantic lexicon ( WordNet ) . 
+SNePS is a semantic network processing system ( Shapiro and Rapaport , 1992 ) . 
+Investigation is a rich source of occurrences that should not happen in civil aircraft WINDOW , TURNING THE HANDLE , PULL , and LET operations . 
+The block-based dependency parsing strategy is a novel integration of phrase structure partial approach and dependency parsing approach . 
+An auxiliary tree represents a recursive structure and has a unique leaf node , called the foot node , which has the same syntactic category as the root node . 
+EVIUS is a component of a multilingual IE system , MTURBIO ( Turmo et al . , 1999 ) . 
+We choose LTAGs as our target grammars ( i.e. , the grammars to be extracted ) because LTAGs possess many desirable properties , such as the Extended Domain of Locality , which allows the encapsulation of all arguments of the anchor associated with an etree . 
+The START System ( Katz , 1990 ; Katz , 1997 ) analyzes English text and builds a knowledge base from information found in the text . 
+Conceptual elements are by definition domain and application dependent ( they are the primitive concepts used in an application knowledge base ) . 
+Elliptical coupling is the pattern of [ A : I ] [ B : I A : R ] , equivalent to the one in which B ' s second response is omitted in coupling . 
+with tf ( t , d ) > 1 ~re t is an estimate of the total number of relevant where : D ( description ) , E ( query expansion ) documents . 
+Clearly , the LSQ is a linear discriminator over the feature space A ' , with coefficients f that are computed given ( potentially all ) the values ^D P [ x , t ] '' The definition generalizes naturally to non-binary classifiers ; in this case , the discriminator between predicting l and other values is linear . 
+A measure related to this is Information Gain , which represents the difference between the entropy of the choice with and without knowledge of the presence of a feature ( cf . 
+ATLAS offers a threelayers solution to the problem of integrating different data storage formats by providing a logical level which consists of the language formalism and the API . 
+To decide this , the dialogue manager regard s the certainty score between the utterance and the most similar KU as an appropriateness measure of the interpretation . 
+We present ALLiS , a learning system for identifying syntactic structures which uses theory refinement . 
+2.VP : A VP is a phrase headed by a predicate . 
+The Deep Read reading comprehension prototype system ( Hirschman et al . , 1999 ) achieves a level of 36 % of the answers correct using a bagf-words approach together with limited linguistic processing . 
+The Common CJK Ideograph section of the Unicode encoding scheme includes all characters encoded in each individual language and encoding scheme . 
+For a given data sequence z m = xl . . . zm and for a fixed probability model M , 1 the stochastic complexity of x m relative to M , which we denote as SC ( x m : M ) , is defined as the least code length required to encode x rn with M ( Rissanen , 1996 ) . 
+Similarly , PLNLP ( Heidorn , 1972 ; Jensen et al . , 1993 ) is a programming language for writing phrase structure rules that include specific conditions under which the rule can be applied . 
+In the present approach , parses are ranked according to their goodness by a statistical model built using the maximum entropy technique , which involves building a distribution over events which is the most uniform possible , given constraints derived from training data . 
+DTDs determine the logical structure of documents and how to tag them accordingly . 
+The required linguistic knowledge resource is a lexical ontology that has the words in the target language and a listing of their associated senses . 
+2 The Tree Chooser uses a stochastic tree model to choose syntactic properties ( expressed as trees in a Tree Adjoining Grammar ) for the nodes in the input structure . 
+Hence , STM is a natural representation of statistical word occurrence based on topics . 
+al , a2 , refo ) [ compellingness ( o , al , a2 , refo ) [ > px+ko'x , where o , al , a2 and refo are defined as in the previous Def ; opop is an objective population ( e .g . , siblings ( o ) ) , and I opopl > 2 pe opop ; xeX = [ compellingness ( p , al , a_~ , refo ) l gx is the mean of X , ~x is the standard deviation and k is a userined constant We have defined similar measures for arguing the value of a single entity and we named them s-compellingness and s-notably-compelling ? . 
+Also , an answer as defined in the TREC-8 QA task is a 50-byte or 250byte answer string , whereas an answer is a complete sentence in the reading comprehension task . 
+Both of them try to expand a `` basic-keyword `` , that is a keyword direcdy derived from a natural language question . 
+36 MDL ( Minimum Description Length ) principle is a model selection criterion which asserts that , for a given data sequence , the lower a model ' s SC value , the greater its likelihood of being a model which would have actually generated the data . 
+Inference to the best explanation The assertion of the goal G supports a proposition Q which is firmly believed ( i.e. , P ( Q ) = High , where Q is a premise or inferred from premises ) , but which would be unexplained ( improbable ) without supposing the truth of the goal . 
+A knowledge-based machine translation can be viewed as extracting and representing the meaning of a text and generating a text in target language based on the meaning presented . 
+Figure 3 shows how different parameter setting affects the cardinality of utterances for different values of M. The ( logarithmic ) yaxis represents the cardinality of utterances , and the ( linear ) x-axis the maximal number of semantic items in one utterance . 
+Cluster-based sentence utility ( CBSU , or utility ) refers to the degree of relevance ( from 0 to 10 ) of a `` particular sentence to the general topic of the entire cluster ( for a dis cussion of what is a topic , see [ Allan et al . 
+The core of TRANSTYPE is a completion engine which comprises two main parts : an evaluator which assigns probabilistic scores to completion . 
+A textual IR system stores a collection of documents and special data structures for effective searching . 
+Given a training sample of size N , ( Xl , Yl ) , . . , ( XN , YN ) , an empirical probability distribution can be defined as y ) = y ) N where # ( x , y ) is the number of occurrences of ( x , y ) . 
+An argument is represented as an cluding a discussion of counterfactual reasoning and Argument Graph , which is a network of nodes that modality , may be found in ( Rescher , 1964 ) . 
+A baseline algorithm for Word Domain Disambignation is presented and then compared with a mutual help disambignation strategy , which makes use of the shared senses of parallel bilingual texts . 
+The chunks in the CoNLL-2000 shared task are represented with IOB based model , in which every word is to be tagged with a chunk label extended with I ( inside a chunk ) , O ( outside a chunk ) and B ( inside a chunk , but the preceding word is in another chunk ) . 
+The output of the discourse component [ Seneff ( 1996 ) ] is the framein-context , which is transformed into a flattened Eform ( electronic form ) by the generation server . 
+state recognizes a symbol wi E lZU { e } , where e is the empty string . 
+'Success' means that the properties in L are sufficient to characterize S . 
+Template slots are parameters or variables that applications or users can fill with values . 
+Hence , tile mappings in ( 7 ) provide an explicit representation of the way information is rerdered and re-packaged when translated from Japanese into English . 
+grammars is the set of all possible combinations of parameter values ( and lexicon ) . 
+The segmentation component provides a word lattice of the sentence that contains all the possible words , and the final disambiguation is achieved in the parsing process . 
+They are : a ) dis'=-deglndis dis b ) dis ' deg • dis c ) dis ' /deg d ) dis ' = -dis In deg Where dis' denotes the revional distance and dis denotes the original distance . 
+2 .2 .1 The Lexicon There were two methods we used to construct the lexicon : open lexicon , which includes all words from the development set along with all determiners , pronouns , prepositions , particles , and conjunctions ( these words are essential to achieving good sentence segmentation ) , and closed lexicon , which includes all of the development and testing words 2 . 
+Language A template is a preined form with parameters that are specified by either the user or the application at run-time . 
+Defined as `` an optimized body of coordinated on-line methods and resources that enable and maintain a person 's or an organization 's performance , `` EPSS interventions range from simple help systems to intelligent wizard-types of support . 
+kNN is a lazy learning method in the sense that it does not carry out any off-line learning to generate a particular category knowledge representation . 
+'Rec' ( Recall ) is the immber of correct events divided by the total mnnber of events which are selected by a human , and 'Prec' ( Precision ) stands for the number of correctevents divided by the number of events which are selected by our method . 
+This alleviates the problem of overpartitioning of data , which is a widely-recognized concern during decision tree growth . 
+Language A template is a pre-defined form with parameters that are specified by either the user or the application at run-time . 
+STOP is a different type of application in that ( 1 ) there are many possible leaflets which can be generated ( and the system can not tell which is best ) , and ( 2 ) no human currently writes personalised smoking-cessation leaflets ( because manually writing such leaflets is too expensive ) . 
+Definition An extractive summary S of a cube C is a set of document units , S c C , see Figure 3 ( d ) . 
+) A statistical queries algorithm is a learning algorithm that constructs its hypothesis only using information received from an SQ oracle . 
+The generation component consists of the following subcomponents : Decomposition and lexlcal selection First , primitive LCSes for words in the target language are matched against CLCSes , and tree structures of covering words are selected . 
+A link file consists of two columns only , one identifying the entity , the other identifying the filler ( the name of the attribute is provided in the first line of the file , see figure 3 ) . 
+The knowledge sources for future identification of organizations are the accumulated lists of the organization names , the proper names of organizations and the organization types . 
+withdraw ( p ) : system withdraws from dialogue for reason p . 
+concession approve ( fda , elixir-plus ) cause NUCL~ S~LITE ban ( fda , elixir ) contain ( elixir , gestodene ) Figure 2 : Rhetorical structure The text planner has been developed within ICONOCLAST , a project which investigates applications of constraint-based reasoning in Natural Language Generation using as subjectmatter the domain of medical information leaflets . 
+The user's query is a formal statement of user 's information need . 
+The structure of Mandarin ( base ) syllables is ( CG ) V ( X ) , where ( CG ) the syllable onset C the initial consonant , G is the optional medial glide , V is the nuclear vowel , and X is the coda ( which may be a glide , alveolar nasal or velar nasal ) . 
+frequency of answers : The frequency of occurrence of facts in a collection of documents has an impact on the performance of systems . 
+In table 2 are some example inputs and outputs , a 1 represents activation on an input or output node . 
+However , in Chinese , gl~ represents postal stamp and the constituent characters represent `` postal '' and `` ticket '' , respectively . 
+The preferences of an agent are expressed as functions which map states , represented as sets of attribute-value pairs , to real numbers ; an overall utility function , which consists of the weighted sum of the individual functions , expresses the utility of reaching the state depicted by a certain configuration of attributes , according to the results of the multi-attribute utility theory ( Haddawy and Hanks , 1998 ) . 
+A thesaurus tree is a hierarchically organized lexicon where leaf nodes encode lexical data 21 ( i.e. , words ) and internal nodes represent abstract semantic classes . 
+The MATE markup framework is a conceptual model which basically prescribes ( i ) how files are structured , for instance to enable multi-level annotation , ( ii ) how tag sets arc ; represented in terms of elements and attributes , and ( iii ) how to provide essential information on markup , semantics , coding purpose etc . 
+( 2 ) where p ( w [ hi ) is a language model , p ( wli , s ) is a translation model , and A E [ 0 , 1 ] is a combining weight . 
+We will pay special attention to localcontent collocations , as they are the strongest , and also closer to strict definitions of collocation . 
+These studies frequently involve the construction of an idealized language sample which is ( at best ) an accurate subset of sentences that a child might hear . 
+XMALIN ( Multi-modal Application of LINLIN ) is a refinement of the LINLINsystem ( Ahrenberg et al . , 1990 ; JSnsson , 1997 ) to handle also multi-modal interaction and more advanced applications . 
+The hotel Regina is a small hotel . 
+Following Briscoe and Carroll ( 1997 ) , we calculated precision ( percentage of SCFS acquired which were also exemplified in the manual analysis ) and recall ( percentage of the SCFs exemplified in the manual analysis which were acquired automatically ) . 
+The automatically created ATS is a labelled oriented acyclic graph with a single root ( dependency tree ) . 
+The semantic zone maps a sense into an ontological concept in the case of single sense , or to several concepts in the case of multiple senses . 
+LT TTT is a good tradeff between the rapidity of CASS and the rich formalism of XFST . 
+MOVE is a label for complex events that consists of maximally three sub-events , namely START , CHPOS ( CHANGE OF POSITION ) , and STOP , where the first and the last sub-event are optional and the middle event can be any kind of movement along a trajectory . 
+When a feature F is given , the conditional entropy for NE classes H ( CIF ) is defined by p ( ~ , f ) logs p ( cll ) H ( C ] F ) cEC fEF . 
+REXTOR ( Relations EXtracTOR ) is an implementation of this model ; in one uniform framework , the system provides two separate grammars for extracting arbitrary patterns of text and building ternary expressions from them . 
+The recall is the number of errors identified by a particular feature divided by the total number of errors . 
+One of the main advantages of probabilistic methods , on the other hand , is that they include a measure of uncertainty in their output . 
+Both of them try to expand a `` basic-keyword ' ' , that is a keyword direcdy derived from a natural language question . 
+a QA system will return : cp However , an AE system will return all the sentences in the text that directly answer the question , among them ( 1 ) . 
+For the baseline run experiments , we utilized the engine of Coneeptbase Search 1.2 , a commercial based search engine adopting vector space model approach . 
+Word Sense Disambiguation ( WSD ) is the problem of assigning the appropriate meaning ( or sense ) to a given word in a text or discourse . 
+( 1 ) IfSj is the only one syuset that has been mapped to Cilin tags , we choose a Cilin tag and map Si to it . 
+HMM is a probabilistic finite state automaton used to model the probabilistic generation of sequential processes . 
+The result would be a new list L = { yellow , chihuahua , largestl } , where 'largestt' is the property 'being the unique largest element of C ' . 
+This work represents a novel approach to translation modeling which is most appropriate for applications like TransType which need to make rapid predictions of upcoming text . 
+The process of extension simply consists of deriving a more elaborate form with a richer meaning using the generator 's linguistic resources -- it is useful to think of obtaining this by carrying out a step of derivation in a lexicalized grammar ( Stone and Doran , 1997 ) -- and then consulting the model of the context to obtain an updated interpretation . 
+~The Kappa statistic ( Cohen , 1960 ) is a better measure of inter-annotator agreement which reduces the effect of chance agreement . 
+The size of a theory is the sum of the sizes of its clauses . 
+For example , revision ( Robin , 1994 ) is a technique for building semantic inputs incrementally . 
+The latter are explicitly represented in his system as a . list of attributes 'to communicate about an entity ' , which is a subset of the overall knowledge the system has of that entity . 
+Given one of the N most probable chunk sequences extracted by the error-driven HMMbased chunk tagger , we can extract a set of chunk patterns , each of them with the format : XP 1 n n+l r~+l = poroPlrn Pn+l , where is the structural relation between Pi and Pi+l . 
+Very Reduced Regular Expression ( VRRE ) : Given a finite alphabet E , the set of very reduced regular expressions over that alphabet is defined as : ( 1 ) 'v'a~ E : a is a VRRE and denotes the set { a } ( 2 ) . 
+The prosodic information consists of ToBI labeling of accents and breaks ( Silverman et al . , 1992 ) . 
+The core of LexTract is an extraction algorithm that takes a Treebank sentence such as the one in Figure 5 and produces the trees ( elementary trees , derived trees and derivation trees ) such as the ones in Figure 3 . 
+This corpus has been POS-tagged with the help of annotation tools developed in the MULTEXT project ( Armstrong , 1996 ) ; sentences and words are first segmented with MtSeg ; words are analyzed and lemmatized with Mmorph ( Petitpierre and Russell , 1998 ; Bouillon et al . , 1998 ) , and finally disambiguated by the Tatoo tool , a Hidden Markov Model tagger ( Armstrong et al . , 1995 ) . 
+The overlap of the predicates ( overlap henceforth ) of two sentences is the maximum set of predicates that can be used as part of the logical form in both sentences . 
+In EWN , each monolingual database is linked , via CrossLanguage equivalence relations , to the InterLingual Index ( ILI ) which is the superset of all concepts occurring in all languages . . 
+Reading comprehension tests are specifically designed to evaluate human reading skills , and these require vast amounts of world knowledge and common-sense reasoning capabilities . 
+If the first NP ( noun-phrase ) in the sentence following the match is a pronoun , choose that sentence : Q : Why did Chris write two books of his own ? 
+`` In our approach we derive the information necessary for the use of LP-rules from a discourse model that relates various aspects of a discourse to one another . 
+An XML document is a mixture of structure ( the tags ) and surface ( text between the tags ) . 
+Remedy is the template that is used to generate natural language responses and explanations corresponding to a particular goal . 
+Let , _o=Po , Zn-1 be the set of ( n-1 ) -leveI graphs , suppose Pn~ ( , . ouZiu . . . . , Za4 ) , ( PnnXn . 1 ) ¢NIL , En ( C-Pn ) is the set of the edges between points in P~ , Rn ( C ( P=x En ) ) is the set of relations between points in P= and edges in En , then : v ) vi ) vii ) viii ) < P~ , E~ , Rn is a n-level compositional graph ; n-level concepts comprise n-level compositional graphs , n-level point-headed graphs , and n-level edge-headed graphs . 
+( 3 ) [ the_DT reawakening_VBG ] of_IN [ the_DT abortion-rights_NNS movement_NN ] Generalisation consists of accepting some sequences of elements which do no correspond to a whole structure . 
+For people who answered Not Sure or Yes , we looked at their decisional balance , that is the number of likes and dislikes they had about smoking , and placed them into Lacks Confidence if their dislikes clearly outnumbered their likes , and Classic Precontemplator otherwise . 
+Ci is the centroid score of the sentence , P~ is the positional score of the sentence , and F~ is the score of the sentence according to the overlap with the first sentence of the document . 
+This first grammar is fully eqivalent to a XML DTD that describes the structure of a notice , though it distinguishes finer-grained units 1hart traditional l ) TI ) s tends to do . 
+The compound noun indexing system proposed in this paper consists of two major modules : one for automatically extracting compound noun indexing rules ( in Figure 1 ) and the other for indexing documents , filtering the automatically generated compound nouns , and weighting the indexed compound nouns ( in Figure 2 ) . 
+In the example , the shaded area represents the summary subgraph G `` of G that contains all four cross-document links and only these nodes and edges of G which are necessary to preserve the textual structure of G ' . 
+Given an input string O = < ol , 02 , . . . , On > , a phrase is a substring of consecutive input symbols oi , oi+l , . . . , oj . 
+The transduction of the ATS to the DMCS consists of the four procedures : elimination of the auxiliary nodes and joining the complex word forms into one node . 
+When classifying a new example , SNoW is similar to a neural network which takes the input features and outputs the class with the highest activation . 
+NJFun : A Reinforcement Learning Spoken Dialogue System Diane Litman , Satinder Singh , Michael Kearns and Marilyn Walker AT & T Labs -Research 180 Park Avenue Florham Park , NJ 07932 USA { diane , bavej a , mkearns , walker } @ research . att . com 
+DispDt is dispersion value of term t in the level of Document which consists of m documents , and denotes how frequently t appears across documents . 
+Communicative space is defined by a number of coordinates that characterise the relationships of participants in a communicative encounter . 
+The reasoning model is interacting with the model of communication process . 
+Thus , the author is terlingua ( specific to the class of documents being always overtly working in the language s/he nows , modelled ) , and it is the responsibility of appropribut is implicitly building a language-independent ate `` rendering '' mechanisms to produce actual text representation of the document content . 
+An end-to-end evaluation includes an analyzer , which maps the source language input into IF and a generator , which maps IF into target language sentences . 
+on the `` core dialogue , '' defined as the interval subsequent to logging on and up until the itinerary is fully specified , but has not yet been priced . 
+The hotel Regina has thirty single rooms The hotel Regina is an expensive hotel . 
+Nitrogen ' s input , Abstract Meaning Representation ( AMR ) , is a labeled directed graph written using the syntax for the PENMAN Sentence Plan Language ( Penman 1989 ) . 
+The widely available corpus is Academic Sinica Balanced Corpus abbreviated as ASBC hereafter ( I-Iuang and Chen , 1995 ) , which is a POS-tagged corpus . 
+In GL formalism , lexical entries consist in structured sets of predicates that define a word . 
+In these ways , YAG provides the speed , robustness , flexibility , and maintainability needed by real-time natural language dialog systems . 
+We measure accuracy using the m-estimate ( Cestnik , 1990 ) , a smoothed measure of accuracy on the training data which in the case of a two-class problem is defined as : accuracy ( H ) s + m. p+ = ( 1 ) n , -Irrt where s is the n-tuber of positive examples covered by the hypothesis H , n is the total number of examples covered , p+ is the prior probability of the class ( 9 , and m is a smoothing parameter . 
+Following Miller et al . , 1999 , the IR system ranks documents according to the probability that a document D is relevant given the query Q , P ( D is R IQ ) . 
+This information gain measures the expected reduction in entropy and defines one branch for the possible subset Si of the training examples . 
+For the RRE-based system , we mapped the +/5 word window of context into a string as follows ( where wi is a word and ti is a part of speech tag ) : learned using the standard feature set . 
+Such SActually , cousin is one of the three relations which indicate the grouping of related senses of a word . 
+3 .1 MUC-6 The corpus for MUC-6 ( MUC , 1995 ) contains 60 articles , from the test corpus for the dry and formalruns . 
+The IWP of a single character is the likelihood for this character to appear as an independent word in texts : N ( Word ( c ) ) IWP ( c ) = N ( c ) where N ( Word ( c ) ) is the number of occurrences of a character as an independent word in the sentences of a given text corpus and N ( c ) is the total number of occurrence of this character in the same corpus . 
+We thus plan to report ranked retrieval measures of effectiveness such as average precision in addition to the detection statistics ( miss and false alarm ) typically reported in TDT . 
+Coverage was measured by having human IF specialists annotate unseen data . 
+Define GoodPotential 0 to I ( S ) as the number of sentences s in the training corpus for which Guess [ s ] =0 , Truth [ s ] = 1 and 3k : ( s , k ) ~ corpus_position_set ( S ) . 

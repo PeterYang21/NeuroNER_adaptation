@@ -1,0 +1,227 @@
+T1	DEF 50 310	consists of a collection of abstracts of scientific papers ( 330 ,000 records , 590MB in text ) , two sets of topic description ( 30 topics for training and 53 topics for evaluation ) and relevance judgement , provides us of a good opportunity for this purpose
+T2	DEF 362 475	retrieves documents related to an unrestricted user query and summarizes a subset of them as selected by the user
+T3	TERM 484 489	Kanji
+T4	DEF 493 550	a kind of ideogram and each character has its own meaning
+T5	TERM 557 564	TEXTUAL
+T6	DEF 576 741	describes three unification-based parsers which are ... `` OWN `` We also compare with the English language and draw some conclusions on the benefits of our approach
+T7	TERM 745 750	GoDiS
+T8	DEF 751 868	consists of a number of modules , an information state , and a number of resources hooked up to the information state
+T9	TERM 1126 1134	l~ ( x )
+T10	DEF 1138 1183	the empirical distribution of x in the corpus
+T11	TERM 1190 1199	Precision
+T12	DEF 1206 1280	the percentage of correct answers among the answers proposed by the system
+T13	TERM 1290 1297	p ( i )
+T14	DEF 1301 1353	the position of the web document in the ordered list
+T15	TERM 1362 1372	definition
+T16	DEF 1376 1449	a pair comprising a phrase category name and a network of word categories
+T17	TERM 1457 1462	model
+T18	DEF 1466 1517	the probability distribution P ( nk ) = P ( nklck )
+T19	TERM 1526 1528	nk
+T20	DEF 1532 1722	the number of attributes and Ck is the utterance class for system utte~anee k . 1.2.2 The bigram model of the attributes This model will predict which attributes to use in a system utterance
+T21	TERM 1751 1753	M2
+T22	DEF 1757 1829	the proposition that the discourse entity B2 is a member of class `` dog
+T23	TERM 1840 1853	ACTIONS field
+T24	DEF 1857 2021	a stack of ( domain ) actions which the user has been instructed to perform but has not yet performed . The LU field contains information about the latest utterance
+T25	TERM 2029 2041	metric M ( H
+T26	TERM 2147 2148	C
+T27	DEF 2152 2225	a constant used to control the relative weight of accuracy vs. complexity
+T28	TERM 2330 2336	243.34
+T29	DEF 2346 2472	the sum of the individual eentroid values of the words ( clinton = 36.39 ; vernon = 47.54 ; jordan = 75.81 ; january = 83.60 )
+T30	TERM 2605 2606	s
+T31	DEF 2610 2659	the total number of sentences in the document set
+T32	DEF 2720 2776	the co-occurrence frequency corresponding to sememe pair
+T33	TERM 2802 2856	Transformation-based learning ( TBL ) ( Brill , 1995 )
+T34	DEF 2860 2941	a successful rule-based machine learning algorithm in natural language processing
+T35	TERM 2945 2954	Authoring
+T36	DEF 2966 3221	a top-down interactive process of step-wise refinement of the root nonterminal ( corresponding to the whole document ) where the author iteratively selects a rule for expanding a lBut see ( Wood , 1995 : Prescod , 1998 ) for discussions of the differences
+T37	TERM 3225 3234	TRANSTYPE
+T38	DEF 3238 3321	a project funded by the Natural Sciences and Engineering Research Council of Canada
+T39	TERM 3368 3369	O
+T40	DEF 3373 3412	the specification of an object in class
+T41	DEF 3432 3588	generates personalised smokingcessation leaflets , based on the recipient 's responses to a questionnaire about smoking beliefs , concerns , and experiences
+T42	TERM 3592 3619	Text meaning representation
+T43	DEF 3623 3713	composed of a set of ontological concept instances along with ontological links among them
+T44	TERM 3749 3750	f
+T45	DEF 3754 3805	measured by computing the difference in uncertainty
+T46	DEF 3862 4026	the linear order of entity names , the word ( s ) between the entity names , the relative position of the entity names ( in one sentence or in neighboring sentences
+T47	TERM 4038 4060	Probabilistic learners
+T48	DEF 4069 4166	associate to uncertain information a measure of the confidence the system has in that information
+T49	TERM 4205 4223	recognition module
+T50	DEF 4227 4334	a phonemeHMM-based speaker-independent continuous speech recognizer that incrementally outputs face Toolldt
+T51	DEF 4356 4478	the description of word order parameters , which reject the basic order in which constituents occur in different languages
+T52	DEF 4487 4669	determines the features ' weights using an on-line algorithm that attempts to minimize the number of mistakes on the training data using a multiplicative weight update rule ( Lit88 )
+T53	TERM 4673 4683	Perplexity
+T54	DEF 4687 4708	a good indicator of Z
+T55	TERM 4739 4740	l
+T56	DEF 4749 4847	the partition for the current position , B ( s , t ) gives the partition for the current word pair
+T57	TERM 4904 4915	S ( s , t )
+T58	DEF 4919 4946	zero if these are undefined
+T59	TERM 4954 4969	learning system
+T60	DEF 4973 5173	equipped with a UG and associated parameters , encoded as a Unification-Based Generalised Categorial Grammar , and a learning algorithm that fixes the values of the parameters to a particular language
+T61	DEF 5190 5328	Primitives Following the procedure outlined in Section 2.4 , the dialogue manager calculates a bag of primitives for each turn and speaker
+T62	TERM 5365 5385	target-text token ti
+T63	DEF 5394 5482	the average of the probabilities with which it is generated by each source text token sj
+T64	DEF 5493 5574	a weighted average that takes the distance from the generating token into account
+T65	DEF 5657 5779	a word-for-word translation probability , Isl is the length ( counted in tokens ) ofthe source segment s under translation
+T66	TERM 5796 5803	Is\ ] )
+T67	DEF 5807 6004	the a priori alignment probability that the target-text token at position i will be generated by the source text token at position j ; this is equal to a constant value of 1~ ( Is I + 1 ) for model
+T68	TERM 6021 6032	labeled idf
+T69	DEF 6036 6074	the mean idf for the terms in each bin
+T70	TERM 6092 6150	N ( vl2 ( c ) ) Pv12 ( c ) = N ( c ) where N ( v12 ( c ) )
+T71	DEF 6154 6240	the number of occurrences of a character in the first position of a two-character verb
+T72	TERM 6247 6254	N ( c )
+T73	DEF 6258 6335	the total number of occurrences of this character in the dictionary headwords
+T74	TERM 6372 6382	TDT system
+T75	DEF 6385 6507	consists of chronologically ordered news articles from multiple sources , which describe an event as it develops over time
+T76	TERM 6531 6536	1998a
+T77	DEF 6539 6688	summarises the genetic algorithm roughly as follows : quences by loosely following sequences of facts where consecutive facts mention the same entity
+T78	DEF 6736 6791	a backff transition to a lower order n-gram probability
+T79	DEF 6882 7040	represents 16024 tokens , with 3 equal thirds : discharge summaries , surgical reports , and laboratory or test results ( in this case , tables were removed )
+T80	TERM 7046 7061	grammar defined
+T81	TERM 7078 7130	grammatical formalism SUG ( Slot Unification Grammar
+T82	DEF 7136 7158	used as input of SUPAR
+T83	DEF 7171 7252	consists of fourtuples of words , extracted from the Wall Street Journal Treebank
+T84	TERM 7265 7299	Resonance Associative Map ( ARAM )
+T85	DEF 7303 7485	a class of predictive serforganizing neural networks that performs incremental supervised learning of recognition categories ( pattern classes ) and multidimensional maps of patterns
+T86	TERM 7489 7514	Base-NP chunking ( NPSM )
+T87	DEF 7517 7569	the segmentation of sentences into non-recursive NPs
+T88	TERM 7573 7591	inform ( aTask=n )
+T89	DEF 7601 7640	presents the n'th answer to the query t
+T90	TERM 7648 7663	Inductive Logic
+T91	DEF 7664 8014	Programming learning method that we have developed enables us to automatically extract from a corpus N-V pairs whose elements axe linked by one of the semantic relations defined in the qualia structure in GL , and to distinguish them , in terms of surrounding categorial context from N-V pairs also present in sentences of the corpus but not relevant
+T92	TERM 8022 8037	topical context
+T93	DEF 8073 8148	stand for the unordered set of open class words appearing in the sentence 7
+T94	DEF 8173 8224	a PROPER_NOUN that contains at least one HUMAN word
+T95	TERM 8252 8268	dialogue act tag
+T96	DEF 8272 8394	a label belonging to a tag set which refers to a given iUocutionary dimension that may be performed by uttering a sentence
+T97	DEF 8402 8539	semantic vicinity of a node in a network consists of the nodes and the arcs reachable from that node by traversing a small number of arcs
+T98	TERM 8545 8568	computational framework
+T99	DEF 8591 8706	used to model the process by which human language learners acquire the syntactic component of their native language
+T100	TERM 8718 8726	tag Ctag
+T101	TERM 8782 8783	n
+T102	DEF 8787 8836	the vocabulary size and wi is a weight of word cw
+T103	TERM 8854 8871	bilanguage corpus
+T104	DEF 8872 8920	consists of sequences of tokens where each token
+T105	DEF 8934 9078	represented with two components : a source word ( ] possibly an empty word ) as the first component and the target word ( possibly an empty word
+T106	DEF 9089 9147	the translation of the source word as the second component
+T107	TERM 9151 9188	Maximal marginal relevance ( or MMR )
+T108	DEF 9192 9276	a technique similar to CSIS and was introduced in ( Carbonell and Goldstein , 1998 )
+T109	TERM 9282 9314	hypotactic construction/sentence
+T110	DEF 9317 9401	a sentence that has a main clause and a dependent clause , connected by a cue phrase
+T111	DEF 9473 9514	identifies salient semantic roles in text
+T112	DEF 9527 9626	the place , perpetrator , and effect of a terrorist event ) and converts them to semantic templates
+T113	TERM 9632 9648	dialogue manager
+T114	DEF 9661 9722	the negotiation of parameter values between a user and an SDS
+T115	DEF 9743 9884	the rows and colunms correspond to words and the ith diagonal element denotes the number of documents in which the word wl appears , F ( wi )
+T116	TERM 9905 9917	utterance Un
+T117	DEF 9921 10004	the most grammatically salient entity realised in U~_i which is also realised in Un
+T118	TERM 10008 10012	RDMs
+T119	DEF 10016 10041	a table searching process
+T120	TERM 10047 10059	substitution
+T121	DEF 10071 10336	a case in the string metrics in which not only a word is in the wrong place , but the word that should have been in that place is somewhere else , Therefore , substitutions , more than moves or insertions or deletions , represent grave cases of word order anomalies
+T122	TERM 10344 10359	reasoning model
+T123	DEF 10360 10468	consists of two functionally linked parts : 1 ) a model of human motivational sphere ; 2 ) reasoning schemes
+T124	TERM 10476 10494	passive vocabulary
+T125	DEF 10498 10552	a large dictionary containing over 380 ,000 word forms
+T126	TERM 10560 10569	root node
+T127	DEF 10607 10684	the position set consists of the beginning of each string in the training set
+T128	TERM 10688 10702	Topic analysis
+T129	DEF 10703 10774	consists of two main tasks : text segmentation and topic identification
+T130	DEF 10845 10989	a slightly different way : each word defines a probability distribution over all contexts , namely the probability of the context given the word
+T131	TERM 10993 11026	Word Sense Disambiguation ( WSD )
+T132	DEF 11030 11087	a central task in the area of Natural Language Processing
+T133	TERM 11095 11119	probability distribution
+T134	DEF 11123 11315	the distribution p that has the maximum entropy relative to a prior distribution P0 ( in other words : the distribution that minimize de divergence D ( pllpo ) ) ( Della Pietra et al. , 1995 )
+T135	DEF 11388 11555	.a .classification task whereby the representation that describes the intended meaning of the utterance is ultimately to be classified into an appropriate surface form
+T136	TERM 11567 11589	Parsing ModeL A parser
+T137	DEF 11593 11738	a relation Parser C_ Sentences x Queries where Sentences and Queries are the sets of natural language sentences and database queries respectively
+T138	TERM 11840 11860	generation procedure
+T139	DEF 11883 12104	the verb form for the predicate in the Predicate slot is generated in the present tense ( topical information is always reported in present tense ) , 3rd person of singular in active voice at the beginning of the sentence
+T140	DEF 12114 12255	the parsed sentence fragment from the N ' hat slot is generated in the middle of the sentence ( so the appropriate case for the first element
+T141	DEF 12296 12360	to reduce overfitting through changes made directly to the model
+T142	TERM 12366 12369	TMR
+T143	DEF 12381 12486	among other representational objects , instantiations of object types , relation types and property types
+T144	DEF 12510 12703	a term is good to discriminate subject concepts if relevant documents contain such terms and non-relevant documents do not contain them and that a term is noisy if the situation is the opposite
+T145	DEF 12729 12898	the compellingness of an objective measures the objective 's strength in determining the overall value difference between the two alternatives , other things being equal
+T146	DEF 12917 13063	tends to follow the MULTEXT lexical description for French , modified within the GRACE action ( http : //www.limsi.fr/TLP/grace/doc/GTR-32.1.tex )
+T147	TERM 13071 13074	LCS
+T148	DEF 13086 13187	predicate argument structure abstracted away from languagespecific properties of semantics and syntax
+T149	DEF 13211 13274	the initial and the final state of chunk whose descriptor is Si
+T150	TERM 13297 13312	simple accuracy
+T151	DEF 13318 13396	the same string distance metric used for measuring speech recognition accuracy
+T152	DEF 13429 13563	the concept of S-set has been presented as a syntactic relation generalization , and a distance measure has been based on this concept
+T153	TERM 13571 13583	basic entity
+T154	DEF 13587 13652	a semantic object ( S ) which is an atomic item treated by the DM
+T155	DEF 13677 13804	a fairly conventional shallow NLG system , with its main innovation being the processing used to control the length of leaflets
+T156	TERM 13826 13845	Virtual prototyping
+T157	DEF 13849 14063	a technique which has been suggested for use in , for example , telecommunication product development as a high-end technology to achieve a quick digital model that could be used in the same way as a real prototype
+T158	DEF 14090 14301	a cascade of dependent parallel processes in our model of the conceptualizer : The cascade consists of the processes construction , selection , linearization , and pvm-generation ( preverbal-message-generation )
+T159	TERM 14392 14434	phrase-representation summarization method
+T160	DEF 14443 14567	represents the outline of a document by a series of short and simple expressions ( `` phrases '' ) that contain key concepts
+T161	TERM 14583 14612	dependency structure analysis
+T162	DEF 14627 14791	a searching problem for the dependency pattern D that maximizes the conditional probability P ( DIB ) of the in20 put sequence under the above-mentioned constraints
+T163	TERM 14810 14835	word-sense disambiguation
+T164	TERM 14847 14868	nouns ( propernouns )
+T165	DEF 14879 15015	the object of a preposition , the intersection of the semtype value sets of the preposition word and its object determines their semtype
+T166	DEF 15036 15095	represent the three features , c represents the class label
+T167	TERM 15103 15124	Partial Parser Module
+T168	DEF 15130 15232	takes this updated text and breaks it into phrases while attempting to lexically disambiguate the text
+T169	DEF 15326 15496	one script interpreter , which functions both as a script executive and a script evaluator , and one set of rules which defines the procedural semantics of script actions
+T170	TERM 15504 15526	theoretical generality
+T171	TERM 15532 15550	generalized clause
+T172	DEF 15554 15626	the number of not generalized clauses ( E + ) that this clause can cover
+T173	DEF 15775 15881	focuses on common feature factorization to insure aggregation remains a proper subset of sentence planning
+T174	TERM 15907 15928	representation theory
+T175	DEF 15932 16217	first order logic without structural rules , the formal learning theory from a logical point of view is inductive substructural logic programming and an example of a learning strategy in this framework is EMILE , a learning algorithm that learns categorial grammars ( Adriaans , 1992 )
+T176	TERM 16225 16249	Domain Knowledge Manager
+T177	DEF 16253 16349	functional utilising a Spatial Reasoner for one sub-area of OstergStland and a Temporal Reasoner
+T178	DEF 16382 16414	a programmer for XYZ Corporation
+T179	DEF 16446 16491	the interlingua used by the C-STAR consortium
+T180	DEF 16497 16552	a speech-act based interlingua for taskriented dialogue
+T181	TERM 16558 16568	word token
+T182	DEF 16572 16609	an occurrence of a type in the corpus
+T183	DEF 16635 16784	an evaluation measure produce equivalence classes of extract summaries ; each rank equivalence class contains summaries which received the same score
+T184	DEF 16823 16985	the evidence for this view of human conversation , and shown how it informs the generation of communicative action in our artificial embodied conversational agent
+T185	DEF 17045 17109	a reference architecture for natural language generation systems
+T186	DEF 17148 17215	facing many problems in fitting Portuguese structures with UNL ones
+T187	DEF 17255 17325	an inflectional language that also employs prepositional constructions
+T188	TERM 17363 17370	2000a )
+T189	DEF 17374 17411	a simple modification of the AdaBoost
+T190	DEF 17435 17525	consists in reducing the feature space that is explored when learning each weak classifier
+T191	DEF 17566 17755	a function p ( t [ t ' , s ) which assigns to each target-text unit t an estimate of its probability given a source text s and the tokens t ' which precede t in the current translation of s
+T192	DEF 17795 17870	a tuple ( j , k ) , meaning the k th symbol in the jtb string in the corpus
+T193	TERM 17957 17977	correlation metric C
+T194	DEF 17981 18014	the square root of the X 2 metric
+T195	DEF 18028 18152	tightly bound as those schema that users expect to discuss interchangeably , without explicit shifts in conversational focus
+T196	TERM 18156 18165	Pi ( c~ )
+T197	DEF 18169 18218	the probability of beginning a derivation with c~
+T198	TERM 18221 18235	Ps ( o~ I 77 )
+T199	DEF 18239 18278	the probability of substituting o~ at 7
+T200	TERM 18291 18295	r/ )
+T201	DEF 18299 18335	the probability of adjoining ~ at 7/
+T202	DEF 18367 18409	the probability of nothing adjoining at ~/
+T203	DEF 18496 18588	a less expressive language formafism , which we will refer to as reduced regular expressions
+T204	TERM 18592 18603	Naive Bayes
+T205	DEF 18619 18674	a simple representative of statistical learning methods
+T206	TERM 18693 18701	LCS node
+T207	DEF 18705 18717	one of Event
+T208	DEF 18764 18839	loosely correlated with verbs prepositions , adverbs , adjectives and nouns
+T209	TERM 18843 18855	2This corpus
+T210	DEF 18931 19003	aims at developing general algorithms for generating nominal expressions
+T211	TERM 19059 19060	e
+T212	DEF 19064 19183	the probability that the learner produces a generalization of the sample that does not coincide with the target concept
+T213	TERM 19192 19193	S
+T214	DEF 19197 19299	the probability , given D , that a particularly unrepresentative ( or noisy ) training sample is drawn
+T215	DEF 19315 19453	a Computer -- Aided Translation Typing System Philippe Langlais and George Foster and Guy Lapalme RALI/DIRO -Universit @ de Montr @ al C.P
+T216	TERM 19457 19465	Coverage
+T217	DEF 19469 19601	the ratio of the number of actually segmented sentences to the number of segmentation target sentences that are longer than ot words
+T218	TERM 19610 19612	o~
+T219	DEF 19616 19678	a fixed constant distinguishing long sentences from short ones
+T220	DEF 19687 19781	context-free parsing algorithms have O ( n 3 ) parsing complexities in terms of time and space
+T221	TERM 19790 19791	n
+T222	DEF 19795 19819	the length of a sentence
+T223	DEF 19878 20054	a toolkit IWIT is an acronym of Workable spoken dialogue lnter150 for building spoken dialogue systems that integrate speech recognition , language understanding and generation
+T224	TERM 20078 20079	L
+T225	DEF 20083 20117	a set of labeled training examples
+T226	TERM 20334 20336	ak
+T227	DEF 20345 20397	the index of which action is applied at the kth step

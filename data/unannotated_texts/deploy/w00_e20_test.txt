@@ -1,0 +1,183 @@
+effectiveness by this method are ambiguities caused by more than one translation of a query term and failures to translate phrases during query translation.
+Regardless of this , there is a ceiling on the performance of these systems at around 80 % token recall. Where token recall is the percentage of SCF tokens in a sample of manually analysed text that were The approaches to extracting SCF information from corpora have frequently employed statistical methods for filtering.
+CommandTalk is a spoken-language interface to the ModSAF ( Modular Semi-Automated Forces ) battlefield simulator , developed with the goal of allowing military commanders to interact with simulated forces in a manner as similar as possible to the way they would command actual forces.
+NPs have the feature types : Base ( the root word of the head word of the NP ) , AGR ( number/person information ) , SemType ( the semtype of the root form in the lexicon , e. g. , person , object , event , artifact , organization ) , Label ( the role type of the word in the sentence , e. g. , subject ) , and Gender.
+`` TEXTUAL `` Section describes three unification-based parsers which are ... `` OWN `` We also compare with the English language and draw some conclusions on the benefits of our approach.
+The German Verbmobil corpus ( Stegmann et al. , 1998 ; Hinrichs et al. , 2000 ) is a treebank annotated at the University of Tiibingen SIMPX I VF !
+C is the current hypothesis.
+FERGUS currently can perform punctuation and function word insertion , and morphology and lexical choice are under development.
+: x VP V NP : p j I surrounding c semantics : surround ( x. p ) ( 4a ) provides a structure that could substitute for the G node in ( 3 ) to produce semantically and pragmatically coordinated speech and gesture.
+We describe preliminary work developing measures on system-internal components that assess : ( i ) the flow of words relevant to the filtering task and domain through the steps of document processing in our embedded MT system , and ( ii ) the level of `` noise `` i.e. , processing errors , passing through the system.
+SNePS is a semantic network processing system ( Shapiro and Rapaport , 1992 ).
+The block-based dependency parsing strategy is a novel integration of phrase structure partial approach and dependency parsing approach.
+Definition 3 : Boundary tag denotes the possible relative position of a word to a base phrase.
+Logic is indeed an excellent way to think about representing static relationships like database queries , but it is much less clear that it is a good way to represent commands.
+DESAM ( Pala et al. , 1997 ) , the annotated and fully disambiguated corpus of Czech newspaper texts , has been used as the source of learning data.
+The test set consists of 30 stories from grade 3 and 30 stories from grade 4.
+Support Vector Machines ( SVMs ) , first introduced by Vapnik ( Cortes and Vapnik , 1995 ; Vapnik , 1995 ) , are relatively new learning approaches for solving two-class pattern recognition problems.
+3.1 Content Selection Module The Content Selection Module consists of four components : Level-Adjusting Agent , UtilityUpdating Agent , Action Planner and Content Selector.
+( 8 ) AMR = < concept > I ( < label > { < role > < AMR > } + ) Since the roles expected by Nitrogen 's English generation grammar do not match well with the thematic roles and features of a CLCS , we have extended the AMR language with LCS-specific relations , calling the result , an LCS-AMR.
+The task of summarization is to identify informative evidence from a given document , which are most relevant to its content and create a shorter version of smnmary of the document from this information.
+We have chosen Pustejovsky ' s Generative Lexicon ( GL ) framework ( Pustejovsky , 1995 ; Bouillon and Busa , 2000 ) to define what a relevant NV link is , that is , what is a N-V pair in which the N and the V are related by a semantic link which is close , and which can therefore be used to expand indexes.
+sim ( s , s2 ) computes the conceptual similarity between concepts s~ and sz as in the following formula : sim ( sl , s2 ) = 2 x level ( MSCA ( sl , s : ) ) level ( sO + level ( s2 ) where MSCA ( sl , s2 ) represents the most specific common ancestor of concepts s~ and s2 and level ( s ) refers to the depth of concept s from the root node in the WordNetL 2.2 Heuristic 2 : Prior Probability This heuristic provides prior probability to each sense of a single translation as score.
+with tf ( t , d ) > 1 ~re t is an estimate of the total number of relevant where : D ( description ) , E ( query expansion ) documents.
+The NL-UNL encoding tool , or UNL Encoder , is generic enough to handle all the 29 languages included in the Project.
+TRANSTYPE is a project funded by the Natural Sciences and Engineering Research Council of Canada.
+The coUocational degree is defined as the ratio of the existing collocation instances between the cluster and its distribution envffonment to all possible collocations generated by them.
+= B ( O ) + max ( OCob # ) obj~class where O is the specification of an object in class.
+When the key words for main topics contained at least one of the identification words , we viewed that text as having the corresponding main topic.
+The STOP system generates personalised smokingcessation leaflets , based on the recipient 's responses to a questionnaire about smoking beliefs , concerns , and experiences.
+Keyword based search is a special case where the user specifies one or more keywords which they want to find in a document.
+The Information Gain of feature f is measured by computing the difference in uncertainty.
+A feature of a context is a binary-valued indicator function ] expressing the information about a specific context.
+Pi ( c~ ) is the probability of beginning a derivation with c~ ; Ps ( o I 77 ) is the probability of substituting o~ at 7 ; finally , Pa ( NONE I 7 ) is the probability of nothing adjoining at ~/.
+A DMC of a given word w is a list of its microcontext elements ( MCEs ).
+We also define ' coverage ' as the proportion of linked senses of Korean words to all the senses of Korean words in a test set.
+Chinese is a syllable-based language , where each syllable carries a lexical tone.
+Truly unmatched templates A truly unmatched template is a template that does not match any template in the other Treebank even if we assume both Treebanks are perfectly annotated.
+' From the above tagging , we can obtain the following discourse structure with embedding relations : A dversativity ( & F ( 14 ) , Sufficiency ( F rontClause ( 15 ) , BackClause ( 15 ) ) ) where & F ( n ) denotes the Front discourse segment of an inter-sentence rhetorical relation whose sequence number is n. We can define & B ( n ) similarly.
+GRAPHON , finally , is a grapheme-to-phoneme conversion task for English based on the English Celex lexical database.
+c ( x~ , wz ) represents the count of the event that x and y occur adjacent and in this order in the training corpus.
+Hi ( s , ) = max support ( s , , ew~ ) 1 ~ ' ~ , ( n-1 ) +a k , =l where EWi = ( ewl s , ~ synset ( ew ) } In this formula , Hi ( s ) is a heuristic score of synset s , s is a candidate synset , ew is a translation into English , n is the number of translations and synset ( ew ) is the set of synsets of the translation ew.
+Along with these goals , the dialogue manager supplies its communicative context , which represents the centrality of the house in attentional prominence , cognitive status and information structure.
+Cluster-based sentence utility ( CBSU , or utility ) refers to the degree of relevance ( from 0 to 10 ) of a `` particular sentence to the general topic of the entire cluster ( for a discussion of what is a topic , see [ Allan et al.
+2 The Tree Chooser uses a stochastic tree model to choose syntactic properties ( expressed as trees in a Tree Adjoining Grammar ) for the nodes in the input structure.
+Text Planner The input to the Longbow text planner discussed in section 4 above is a representation of a picture in SAGE format ( which has been annotated to indicate the types of complexity of each grapheme ) together with a goal , which can typically be interpreted as `` describe ''.
+The central inspiration here is the fact that grunts are unlike words , in that they contain sounds which are never seen in the lexical items of the language.
+P ( NEG ) is the probability that a negative example is mislabelled and its value can be estimated given # ( in equation ( 6 ) ) and the total nnrnber of positive and negative examples.
+Both of them try to expand a `` basic-keyword `` , that is a keyword direcdy derived from a natural language question.
+Suppose Pi~-Po , Ei ( ~-Po ) is the set of the edges between points in P1 , Ri ( ~ ( PlX El ) ) is the set of relations between points in PI and edges in Et s , then : s Here , Edges are also points.
+Kwok ( 1996 ) suggested average term frequency , avtf = TF ( t ) /df ( t ) , be used as a tie-breaker for cases like this , where TF ( t ) = ~a if ( t , d ) is the standard notion of frequency in the corpus-based NLP.
+36 MDL ( Minimum Description Length ) principle is a model selection criterion which asserts that , for a given data sequence , the lower a model ' s SC value , the greater its likelihood of being a model which would have actually generated the data.
+Dbest = argmax P ( D [ B ) D If we assume that the dependency probabilities are mutually independent , P ( DIB ) could be rewritten as : rn-1 P ( DIB ) = ~I P ( Dep ( i ) =j Ifit ) i=1 fit = { fl ,... , fn } e R n. P ( Dep ( i ) = J If0 ) represents the probability that bi depends on ( modifies ) b t. fit is an n dimensional feature vector that represents various kinds of linguistic features related with the chunks bi and b t. We obtain Dbest taking into all the combination of these probabilities.
+SEMCAT weights are calculated based on the following equations.
+ttpj = ttpn { / ( t , pj ) ift , pj is atoplc of Stp 0 otherwise f ( w ) denotes term frequency of word w. term vectors 35 Let $ 1 , - , S , , , be all the other training documents ( where m is the number of training documents which does not belong to the target event ) and Sx be a test document which should be classified as to whether or not it discusses the target event.
+Figure 3 shows how different parameter setting affects the cardinality of utterances for different values of M. The ( logarithmic ) yaxis represents the cardinality of utterances , and the ( linear ) x-axis the maximal number of semantic items in one utterance.
+In order to provide a better estimate of how close two discourse trees were , we computed PositionDependent and -Independent recall and precision figures for the sentential level ( where units are given by edus and spans are given by sets of edus or single sentences ) ; paragraph level ( where units are given by sentences and spans are given by sets of sentences or single paragraphs ) : and text level ( where units are given by paragraphs and spans are given by sets of paragraphs ).
+The core of TRANSTYPE is a completion engine which comprises two main parts : an evaluator which assigns probabilistic scores to completion.
+Base-NP chunking ( NPSM ) : the segmentation of sentences into non-recursive NPs.
+The language model for speech recognition is a network ( regular ) grammar , and it allows each speech interval to be an arbitrary number of phrases.
+A textual IR system stores a collection of documents and special data structures for effective searching.
+The implementation of Centering reported here is a special case of text planning by constraint satisfaction , where the user has control over the different constraints , and this approach means that different strategies for e. g.
+This is a subcorpus of circa 4.5 million words , in which speakers and respondents are identified by such factors as gender , age , social group and geographical region.
+Spam , or more properly Unsolicited Commercial E-mail ( UCE ) , is an increasing threat to the viability of Internet E-mail and a danger to Internet commerce.
+The algorithm disambiguate_class , which is implemented by Resnik and described in detail in [ Resnik , 1999 ] , calculates the similarity between all the words ' senses of words in a set.
+As a result , intransitive verbs are defined as S\NP , figure 1 , for the grammar to account for these sentences.
+S+ and S are the sets of good and bad states respectively.
+TM2 contains elements which are translation segments ranging from whole sections of a document or multisentence paragraphs to smaller units , such as short phrases or proper names.
+opt means an option and or means a disjunction.
+He selects the Mann-Whitney test that : uses ranks of frequency data rather than the frequency values themselves to compute the statistic.
+CGUs , which represent grounding at the ' illocutionary level ' ( Clark 1996 ) , have been proposed as a meso-level dialogue structure roughly the same level that dialogue games ( Carletta et al , 1997 ) or adjacency pairs ( eg.
+As said before , the Interlingua system takes the SS of the sentence after applying the anaphora resolution module as input.
+Ambiguity and synonymity of words is a property of natural language causing a very serious problem in IR.
+The second model used a 1EuTrans ESPRIT-LTR Project 20268 2IMH has been reported recently as the most useful MCMC algorithm used in the WSME training process.
+Error-correcting output codes ( ECOC ) have been introduced to machine learning as a principled and successful approach to distributed class encoding ( Dietterich and Bakiri , 1995 ; Ricci and Aha , 1997 ; Berger , 1999 ).
+Weighted Probability Distribution Voting ( WPDV ) is a newly designed machine learning algorithm , for which research is currently aimed at the determination of good weighting schemes.
+Introduction WordSmith Tools ( Scott , 1998 ) offers a program for comparing corpora , known as KeyWords.
+The domain-dependent knowledge used in this module consists of a unification-based lexicon and phrase structure rules.
+A sense tag Ctag is in terms of a vector ( wl , w2 , ... , wn ) , where n is the vocabulary size and wi is a weight of word cw.
+embedding the NP : If the category of the constituent embedding the NP is associated with one or more functional tags , they are used as features.
+'Rec' ( Recall ) is the immber of correct events divided by the total mnnber of events which are selected by a human , and 'Prec' ( Precision ) stands for the number of correctevents divided by the number of events which are selected by our method.
+X ° is the head of X m and the anchor of the etree.
+Natural language generation involves a number of processes ranging from planning the content to be expressed through making encoding decisions involving syntax , the lexicon and morphology.
+The third technique , information extraction [ Radev & McKeown 98 ] identifies salient semantic roles in text ( e. g. , the place , perpetrator , and effect of a terrorist event ) and converts them to semantic templates.
+For simple information requests we have identified two important concepts , termed Objects and Properties ( JSnsson , 1997 ) where Objects models the set of objects in the database and Properties denotes a complex predicate ascribed to this set.
+pro ( 1 _p ) n-m ( 2 ) The probability of the event happening m or more times is : = ( 3 ) k=rn Finally , P ( m+ , n , p e ) is the probability that m or more occurrences of cues for scfi will occur with a verb which is not a member ofscfi , given n occurrences of that verb.
+M5 is the proposition that the name of the discourse entity B2 is `` Pluto ``.
+The DS tag consists of a topic break index ( TBI ) , a topic name and a segment relation.
+withdraw ( p ) : system withdraws from dialogue for reason p.
+Forty-nine of the OCR-ed `` words `` are treated as `` not found words `` ( NFWs ) by the MT engine , even though they may in fact be actual Spanish words.
+( 7 ) cEClass H ( C [ F=v ] ) is the class entropy computed over the subset of instances that have v as value for Fi.
+The reasoning model consists of two functionally linked parts : 1 ) a model of human motivational sphere ; 2 ) reasoning schemes.
+The user's query is a formal statement of user 's information need.
+The Dialog Manager can be broadly classified into two main modules : Content Selection and Content Realization.
+REA has a working implementation , which includes the modules described in this paper , and can engage in a variety of interactions including that in ( 5 ).
+Topic analysis consists of two main tasks : text segmentation and topic identification.
+Content-based measures increase the correlation of rankings induced by synonymous ground truths , and exhibit other desirable properties.
+( 2 ) where p ( w [ hi ) is a language model , p ( wli , s ) is a translation model , and A E [ 0 , 1 ] is a combining weight.
+We collected four measures of performance : • Recognition time , measured , in multiples of CPU real time ( CPURT ).
+The approach taken in this thesis , however , explores generation as .a .classification task whereby the representation that describes the intended meaning of the utterance is ultimately to be classified into an appropriate surface form.
+We will pay special attention to localcontent collocations , as they are the strongest , and also closer to strict definitions of collocation.
+The base model defines the distance between a test item and each memory item as the number of features for which they have a different value.
+The hotel Regina is a small hotel.
+4.1 The Parsing ModeL A parser is a relation Parser C_ Sentences x Queries where Sentences and Queries are the sets of natural language sentences and database queries respectively.
+Instead other types require additional re-generation : for the topic of the document template the generation procedure is as follows : ( i ) the verb form for the predicate in the Predicate slot is generated in the present tense ( topical information is always reported in present tense ) , 3rd person of singular in active voice at the beginning of the sentence ; ( ii ) the parsed sentence fragment from the N ' hat slot is generated in the middle of the sentence ( so the appropriate case for the first element ).
+GIZA is an intermediate program in a statistical machine translation system , EGYPT.
+According to our view , an annotation meta-scheme is a general descriptive framework in which different annotation schemes can be accommodated.
+SUPAR is a computational system focused on anaphora resolution.
+Since objects can be grouped together into classes , a class complexity is the number of bits conveyed by distinguishing one type of object from that class , plus the maximum object complexity that occurs in that class : CC. , ...
+The ideal answer is a full sentence that contains the information given by the question and the information requested.
+The position value posi_v of the ith word wi is calculated as pos _v = r × R ] , where n is the number of words and R represents the number of regions in the sentence.
+The < rs > tag can be considered to be the name of the varying element.
+Furthermore , Eset is the only tree set that satisfies all the following conditions : ( C1 ) Decomposition : The tree set is a decomposition of T* , that is , T* would be generated if the trees in the set were combined via the substitution and adjunction operations.
+Corpus H is a subset of Corpus I.
+Text Planner The input to the Longbow text planner discussed in section 4 above is a representation of a picture in SAGE format ( which has been annotated to indicate the types of complexity of each grapheme ) together with a goal , which can typically be interpreted as `` describe ''.
+English and other Germanic languages are considered satellite-framed languages , expressing the path in the satellite ; Spanish , among other Romance languages , is a verb-framed language and expresses the path in the main verb.
+A `` meta-chain '' is a representation of every possible lexical chain that can be computed starting with a word of a given sense.
+A relation rule takes the following form : EntityType : = > < atoml atom2 acorn3 > ; The EntityType is the trigger for the relation , i.e. , the rule is applied whenever a string of that type is extracted.
+5The MS tagset tends to follow the MULTEXT lexical description for French , modified within the GRACE action ( http : //www.limsi.fr/TLP/grace/doc/GTR-32.1.tex ).
+a QA system will return : cp However , an AE system will return all the sentences in the text that directly answer the question , among them ( 1 ).
+So TRANSTYPE is a specialized text editor with an embedded Machine translation engine as one of its components.
+For the baseline run experiments , we utilized the engine of Coneeptbase Search 1.2 , a commercial based search engine adopting vector space model approach.
+( 1 ) IfSj is the only one syuset that has been mapped to Cilin tags , we choose a Cilin tag and map Si to it.
+Conversation agent is a kind of intelligent agent a computer program that is able to communicate with humans as another human being.
+MT has been used to facilitate cross-language information retrieval ( IR ) , topic detection and other , wide-scoped scenarios.
+The basic entity is a semantic object ( S ) which is an atomic item treated by the DM.
+Internally , STOP is a fairly conventional shallow NLG system , with its main innovation being the processing used to control the length of leaflets ( Reiter , 2000 ).
+• Matching of the depth of the phrases in parse trees : 1 point • Matching of the type of the phrases ( phrase types differ depending on surface cases and verb conjugations , etc ) : 1 point user question are summed up and normalized by the maximum matching score ( MMS ) as follows ( the MMS is the similarity score with the same sentence ) : The sum of scores of~ 2 phrase similarities ] The MMS of ~ ( The MMS of~ the user question ] × \the KU case ] The above score is given to the KU as its certainty score.
+buildFactoringStrategy ( Matrix ) : returns inside a list a pair ( Dim , increasing ) where Dim is the matrix ' s dimension ( i.e. , column ) with the lowest number of distinct values.
+3.3 Noise Handling A clause needs no further refinement when it meets the following criterion ( as in RIPPER ( Cohen , 1995 ) ) : P -. __. 2_ > ( 6 ) p+n where p is the number of positive examples covered by the clause , n is the number of negative examples covered.
+The first , IB1 is a k-nearest neighbour algorithm.
+Our test queries are real world queries that express a concrete information need.
+Given one of the N most probable chunk sequences extracted by the error-driven HMMbased chunk tagger , we can extract a set of chunk patterns , each of them with the format : XP 1 n n+l r~+l = poroPlrn Pn+l , where is the structural relation between Pi and Pi+l.
+Discourse refers to any form of language-based communication involving multiple sentences or utterances.
+SUPAR allows to carry out either a full or a partial parsing of the text , with the same parser and grammar.
+According to MDL , the best probability model for a given set of data is a model that uses the shortest code length for encoding the model itself and the given data relative to it.
+Precision ( P ) is the percentage of the predicted documents for a given category that are classifted correctly.
+28 The UNL system architecture consists of two main processes , the encoder and decoder , and several linguistic resources , each group of these corresponding to a NL embedded in the system , as depicted in Figure 3.
+Decision Lists were one of the most successful systems on the 1st Senseval competition for WSD ( Kilgarriff and Rosenzweig , 2000 ).
+At the elementary unit level , the correspondence between Japanese sentence ( 4 ) and its English translation ( 6 ) can be represented as in ( 7 ) , where jC-e denotes the fact that the semantic content of unit j is realized fully in unit e ; jD-e denotes the fact that the semantic content of unit e is realized fully in unit.
+A PROPER__NOUN is defined as a noun phrase in which all words are capitalized.
+the lexicon : F~ ( e i ) = F : rr°r ( e i ) o+Ao Here , F ( el ) is the chunking error number of the lexical entry e i for the old lexicon r~ Error / x and r~ , +~ te i ) is the chunking error number of the lexical entry e i for the new lexicon + AO where e~ A~ is the list of new lexical entries added to the old lexicon ~ ).
+The Maximum Entropy principle ( ME ) is an appropriate framework for combining information of a diverse nature from several sources into the same language model.
+In many NLG systems , aggregation is a post planning process whose preferences are only partially taken into account by the text planner.
+The TF column indicates the average term frequency of a given term within the cluster.
+Reading comprehension tests are specifically designed to evaluate human reading skills , and these require vast amounts of world knowledge and common-sense reasoning capabilities.
+• PP rules for word-sense disambiguation : For some nouns ( propernouns ) which are the object of a preposition , the intersection of the semtype value sets of the preposition word and its object determines their semtype.
+fl , f2 , and f3 represent the three features , c represents the class label.
+The Partial Parser Module then takes this updated text and breaks it into phrases while attempting to lexically disambiguate the text.
+`` In our approach we derive the information necessary for the use of LP-rules from a discourse model that relates various aspects of a discourse to one another.
+An XML document is a mixture of structure ( the tags ) and surface ( text between the tags ).
+Therefore , MRAR for a reading comprehension test is the sum of the scores for answers corresponding to each question for that test.
+In linguistics , telicity is a phase feature used in classifying.
+The top object is a move with two roles : A source location ( which is a city Hanover ) , and a departure time ( which is a date day 1 ).
+Introduction With the rapid growth of electronic documents and the great development of network in China , there are more and more people touching the Internet , on which , however , English is the most popular language being used.
+Let , _o=Po , Zn-1 be the set of ( n-1 ) -leveI graphs , suppose Pn~ ( ,. ouZiu.... , Za4 ) , ( PnnXn. 1 ) ¢NIL , En ( C-Pn ) is the set of the edges between points in P~ , Rn ( C ( P=x En ) ) is the set of relations between points in P= and edges in En , then : v ) vi ) vii ) viii ) < P~ , E~ , Rn is a n-level compositional graph ; n-level concepts comprise n-level compositional graphs , n-level point-headed graphs , and n-level edge-headed graphs.
+Document # 3 : Mike Smith is a programmer for XYZ Corporation.
+The Penn Treebank for example consists of trees with an additional coindexation relation , Negra allows crossing branches and in Verbmobil , an element ( a tree-like structure ) in the corpus might contain completely disconnected nodes.
+The compound noun indexing system proposed in this paper consists of two major modules : one for automatically extracting compound noun indexing rules ( in Figure 1 ) and the other for indexing documents , filtering the automatically generated compound nouns , and weighting the indexed compound nouns ( in Figure 2 ).
+3 A Rule-based System for Question Answering Quarc ( QUestion Answering for Reading Comprehension ) is a rule-based system that uses lexical and semantic heuristics to look for evidence that a sentence contains the answer to a question.
+The transduction of the ATS to the DMCS consists of the four procedures : elimination of the auxiliary nodes and joining the complex word forms into one node.
+MIMIC currently utilizes templatedriven text generation , and passes on text strings to a stand-alone TTS system.
+We will take them to be of the form n crn , where n is a positive natural number.
+When classifying a new example , SNoW is similar to a neural network which takes the input features and outputs the class with the highest activation.
+The architecture of the argument generator is a typical pipelined architecture comprising a discourse planner , a microplanner and a sentence real izer.
+This can be computed for given word-pair type ( wl , w2 ) by recording each word-pair token ( wl , w2 , d ) in a corpus , where d is the distance or number of intervening words.
+The communication channel consists of the trained classifier.
+Precision is the ratio between the number of correct parses produced by the specialized grammar and the total number of parses produced by the same grammar.
+2.2.1 The evaluator The evaluator is a function p ( t [ t ' , s ) which assigns to each target-text unit t an estimate of its probability given a source text s and the tokens t ' which precede t in the current translation of s.
+Nitrogen ' s input , Abstract Meaning Representation ( AMR ) , is a labeled directed graph written using the syntax for the PENMAN Sentence Plan Language ( Penman 1989 ).
+e1 , e2 , ... , e , are the segmented Chinese words of the query after removing the stop words.
+GoDiS is a small-scale prototype and as such it suffers from the familiar drawbacks of many experimental systems : its lexicons and databases are very small , and the domain knowledge is limited.
+Their differences lie in that • MBL is a lazy learning algorithm that keeps all training data in memory.
+In these ways , YAG provides the speed , robustness , flexibility , and maintainability needed by real-time natural language dialog systems.
+2.3 Distance between Clusters In order to measure the distance between clusters of the same part of speech , we use the following equations : 1 [ ~ ' [ `` 1~/I ( 1 ) disa ( Ai , Aj ) and lie , U % l ( 2 ) where O~ is the distribution environment of ~ and is make up of nouns which can be collocated with distribution environment composed of adjectives collocated with N i.
+Following Miller et al. , 1999 , the IR system ranks documents according to the probability that a document D is relevant given the query Q , P ( D is R IQ ).
+The parameters e and S have the following meaning : e is the probability that the learner produces a generalization of the sample that does not coincide with the target concept , while S is the probability , given D , that a particularly unrepresentative ( or noisy ) training sample is drawn.
+The utility of a path in the graph is the summation of the reward/punishment ratio of all the nodes ( subgoals ) in that path.
+I will call it the hyperonym problem [... ] : When lemma A 's meaning entails lemma B 's meaning , B is a hyperonym of A.
+TransType : a Computer -- Aided Translation Typing System Philippe Langlais and George Foster and Guy Lapalme RALI/DIRO -Universit @ de Montr @ al C.P.
+Hits denotes how many of the files passed to IE actually had at least one template in them and Templates shows how many templates were extracted as a result of the query.
+) is frequency , L is the set of left adjacent strings of X , tz~L and ILl means the number of unique left adjacent strings.
+( n.1 ) , U ) where u is the utterance class.
+Suppose q = an+l ( Sm ) , we have : P ( q 6 Q ( l ) ) ( 10 ) = P ( s~ • F~ ) ... = P ( s , n • FS + l sm-1 •/St , _a ) ... P ( s~ • OS~_ , I sj-1 • Is~_ , ) ... P ( s2 • Ob~ , Is1 • IS~ , ) P ( 'I • IS~ , ) where ak denotes the index of which action is applied at the kth step.

@@ -1,0 +1,62 @@
+{
+    "epoch": {
+        "0": [
+            {
+                "time_elapsed_since_epoch_start": 2.1842589378356934,
+                "time_elapsed_since_train_start": 2.6507577896118164
+            }
+        ]
+    },
+    "execution_details": {
+        "early_stop": false,
+        "keyboard_interrupt": false,
+        "num_epochs": 0,
+        "time_stamp": "2018-08-24_12-13-01-241578",
+        "train_duration": 2.704730749130249,
+        "train_end": 1535137983.9464488,
+        "train_start": 1535137981.241718
+    },
+    "model_options": {
+        "character_embedding_dimension": 25,
+        "character_lstm_hidden_state_dimension": 25,
+        "check_for_digits_replaced_with_zeros": 1,
+        "check_for_lowercase": 1,
+        "dataset_text_folder": "../data/unannotated_texts",
+        "debug": 0,
+        "dropout_rate": 0.5,
+        "experiment_name": "test",
+        "freeze_token_embeddings": 0,
+        "gradient_clipping_value": 5.0,
+        "learning_rate": 0.005,
+        "load_all_pretrained_token_embeddings": 0,
+        "load_only_pretrained_token_embeddings": 0,
+        "main_evaluation_mode": "conll",
+        "maximum_number_of_epochs": 100,
+        "number_of_cpu_threads": 8,
+        "number_of_gpus": 0,
+        "optimizer": "sgd",
+        "output_folder": "../output",
+        "parameters_filepath": "./parameters.ini",
+        "patience": 10,
+        "plot_format": "pdf",
+        "pretrained_model_folder": "../trained_models/w00-tp",
+        "reload_character_embeddings": 1,
+        "reload_character_lstm": 1,
+        "reload_crf": 1,
+        "reload_feedforward": 1,
+        "reload_token_embeddings": 1,
+        "reload_token_lstm": 1,
+        "remap_unknown_tokens_to_unk": 1,
+        "spacylanguage": "en",
+        "tagging_format": "bioes",
+        "token_embedding_dimension": 100,
+        "token_lstm_hidden_state_dimension": 100,
+        "token_pretrained_embedding_filepath": "../data/word_vectors/glove.6B.100d.txt",
+        "tokenizer": "spacy",
+        "train_model": 0,
+        "use_character_lstm": 1,
+        "use_crf": 1,
+        "use_pretrained_model": 1,
+        "verbose": 0
+    }
+}
