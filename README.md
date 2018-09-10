@@ -1,11 +1,13 @@
 # Add on to NeuroNER Repository
 
 ## Commands
+Place place downloaded glove.6B.100d.txt under data/word_vectors to run program. The pretrained vectors are quite large and thus are not uploaded.
+
 ### train model 
 ```
 cd src/
 
-python3 main.py --maximum_number_of_epochs=20 --dataset_text_folder="../data/w00" 
+python3 main.py --maximum_number_of_epochs=20 --dataset_text_folder="../data/w00_tptn" 
 ```
 To train a model, modify arguments and run command above. Output model and statistical results will be generated in output/ folder after each epoch.
 
