@@ -1,0 +1,12 @@
+*.md.html
+*.pyc
+*.prefs
+*.project
+*.pydevproject
+data/unannotated_texts_2
+data/word_vectors/*
+data/example_unannotated_texts
+data/i2b2_2014_deid
+sample_pretrained_models/*
+output/w00-tptn_2018-08-23_14-51-38-186544
+.DS_Store
